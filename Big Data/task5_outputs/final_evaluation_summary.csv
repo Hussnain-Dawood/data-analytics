@@ -1,0 +1,4 @@
+model,auc_roc,auc_pr,accuracy,fraud_precision,fraud_recall,fraud_f1,f2_score,tp,fp,tn,fn,training_time_s
+Logistic Regression,0.9913,0.7684,0.9892,0.1295,0.9184,0.227,0.9911,90,605,56300,8,167.3
+Random Forest,0.9942,0.8401,0.9992,0.7203,0.8673,0.787,0.9992,85,33,56872,13,2314.1
+GBT,0.9829,0.7744,0.9971,0.3568,0.8776,0.5074,0.9974,86,155,56750,12,1272.2
