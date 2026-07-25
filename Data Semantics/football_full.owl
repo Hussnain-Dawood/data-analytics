@@ -1,0 +1,2338 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:fb="http://www.semanticweb.org/ontologies/football#"
+   xmlns:owl="http://www.w3.org/2002/07/owl#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/1993–94_Queens_Park_Rangers_F.C._season">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Team"/>
+    <fb:hasName xml:lang="en">1993–94 Queens Park Rangers F.C. season</fb:hasName>
+    <fb:competesin rdf:resource="http://dbpedia.org/resource/Premier_League"/>
+    <fb:hasStadium rdf:resource="http://dbpedia.org/resource/Loftus_Road"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q113916">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Player"/>
+    <fb:hasName xml:lang="en">Stephen Ireland</fb:hasName>
+    <fb:hasNationality rdf:resource="http://www.wikidata.org/entity/Q27"/>
+    <fb:playsFor rdf:resource="http://www.wikidata.org/entity/Q50602"/>
+    <fb:playsFor rdf:resource="http://www.wikidata.org/entity/Q18711"/>
+    <fb:playsFor rdf:resource="http://www.wikidata.org/entity/Q18716"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/1993–94_Norwich_City_F.C._season">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Team"/>
+    <fb:hasName xml:lang="en">1993–94 Norwich City F.C. season</fb:hasName>
+    <fb:competesin rdf:resource="http://dbpedia.org/resource/Premier_League"/>
+    <fb:hasStadium rdf:resource="http://dbpedia.org/resource/Carrow_Road"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q39">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Country"/>
+    <fb:hasName xml:lang="en">Switzerland</fb:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q180276">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Player"/>
+    <fb:hasName xml:lang="en">Pascal Cygan</fb:hasName>
+    <fb:hasNationality rdf:resource="http://www.wikidata.org/entity/Q142"/>
+    <fb:playsFor rdf:resource="http://www.wikidata.org/entity/Q9617"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/1997–98_Blackburn_Rovers_F.C._season">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Team"/>
+    <fb:hasName xml:lang="en">1997–98 Blackburn Rovers F.C. season</fb:hasName>
+    <fb:competesin rdf:resource="http://dbpedia.org/resource/Premier_League"/>
+    <fb:hasStadium rdf:resource="http://dbpedia.org/resource/Ewood_Park"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2025–26_Nottingham_Forest_F.C._season">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Team"/>
+    <fb:hasName xml:lang="en">2025–26 Nottingham Forest F.C. season</fb:hasName>
+    <fb:competesin rdf:resource="http://dbpedia.org/resource/Premier_League"/>
+    <fb:hasStadium rdf:resource="http://dbpedia.org/resource/City_Ground"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/1993–94_Blackburn_Rovers_F.C._season">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Team"/>
+    <fb:hasName xml:lang="en">1993–94 Blackburn Rovers F.C. season</fb:hasName>
+    <fb:competesin rdf:resource="http://dbpedia.org/resource/Premier_League"/>
+    <fb:hasStadium rdf:resource="http://dbpedia.org/resource/Ewood_Park"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q213091">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Player"/>
+    <fb:hasName xml:lang="en">Carlos Bocanegra</fb:hasName>
+    <fb:hasNationality rdf:resource="http://www.wikidata.org/entity/Q30"/>
+    <fb:playsFor rdf:resource="http://www.wikidata.org/entity/Q18708"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2002–03_Fulham_F.C._season">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Team"/>
+    <fb:hasName xml:lang="en">2002–03 Fulham F.C. season</fb:hasName>
+    <fb:competesin rdf:resource="http://dbpedia.org/resource/Premier_League"/>
+    <fb:hasStadium rdf:resource="http://dbpedia.org/resource/Loftus_Road"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2019–20_Brighton_&amp;_Hove_Albion_F.C._season">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Team"/>
+    <fb:hasName xml:lang="en">2019–20 Brighton &amp; Hove Albion F.C. season</fb:hasName>
+    <fb:competesin rdf:resource="http://dbpedia.org/resource/Premier_League"/>
+    <fb:hasStadium rdf:resource="http://dbpedia.org/resource/Falmer_Stadium"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q609186">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Player"/>
+    <fb:hasName xml:lang="en">Caleb Folan</fb:hasName>
+    <fb:hasNationality rdf:resource="http://www.wikidata.org/entity/Q27"/>
+    <fb:playsFor rdf:resource="http://www.wikidata.org/entity/Q1128631"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bramall_Lane">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Stadium"/>
+    <fb:hasName xml:lang="en">Bramall Lane</fb:hasName>
+    <fb:stadiumCapacity rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">32050</fb:stadiumCapacity>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2012–13_Chelsea_F.C._season">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Team"/>
+    <fb:hasName xml:lang="en">2012–13 Chelsea F.C. season</fb:hasName>
+    <fb:competesin rdf:resource="http://dbpedia.org/resource/Premier_League"/>
+    <fb:hasStadium rdf:resource="http://dbpedia.org/resource/Stamford_Bridge_(stadium)"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2021–22_Norwich_City_F.C._season">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Team"/>
+    <fb:hasName xml:lang="en">2021–22 Norwich City F.C. season</fb:hasName>
+    <fb:competesin rdf:resource="http://dbpedia.org/resource/Premier_League"/>
+    <fb:hasStadium rdf:resource="http://dbpedia.org/resource/Carrow_Road"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/1998–99_Middlesbrough_F.C._season">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Team"/>
+    <fb:hasName xml:lang="en">1998–99 Middlesbrough F.C. season</fb:hasName>
+    <fb:competesin rdf:resource="http://dbpedia.org/resource/Premier_League"/>
+    <fb:hasStadium rdf:resource="http://dbpedia.org/resource/Riverside_Stadium"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/1992–93_Sheffield_Wednesday_F.C._season">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Team"/>
+    <fb:hasName xml:lang="en">1992–93 Sheffield Wednesday F.C. season</fb:hasName>
+    <fb:competesin rdf:resource="http://dbpedia.org/resource/Premier_League"/>
+    <fb:hasStadium rdf:resource="http://dbpedia.org/resource/Hillsborough_Stadium"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Ndef1f64d4c7043949f1ef6fb0e4ddce3">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Restriction"/>
+    <owl:onProperty rdf:resource="http://www.semanticweb.org/ontologies/football#Team"/>
+    <owl:someValuesFrom rdf:resource="http://www.w3.org/2002/07/owl#rational"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2025–26_Brentford_F.C._season">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Team"/>
+    <fb:hasName xml:lang="en">2025–26 Brentford F.C. season</fb:hasName>
+    <fb:competesin rdf:resource="http://dbpedia.org/resource/Premier_League"/>
+    <fb:hasStadium rdf:resource="http://dbpedia.org/resource/Brentford_Community_Stadium"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q18747">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Team"/>
+    <fb:hasName xml:lang="en">West Ham United F.C.</fb:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/ontologies/football#hasCountryName">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#DatatypeProperty"/>
+    <rdfs:domain rdf:nodeID="Nae4e2be5fa164b81832976c93fe5a729"/>
+    <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2020–21_Chelsea_F.C._season">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Team"/>
+    <fb:hasName xml:lang="en">2020–21 Chelsea F.C. season</fb:hasName>
+    <fb:competesin rdf:resource="http://dbpedia.org/resource/Premier_League"/>
+    <fb:hasStadium rdf:resource="http://dbpedia.org/resource/Stamford_Bridge_(stadium)"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2010–11_Manchester_United_F.C._season">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Team"/>
+    <fb:hasName xml:lang="en">2010–11 Manchester United F.C. season</fb:hasName>
+    <fb:competesin rdf:resource="http://dbpedia.org/resource/Premier_League"/>
+    <fb:hasStadium rdf:resource="http://dbpedia.org/resource/Old_Trafford"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2009–10_Portsmouth_F.C._season">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Team"/>
+    <fb:hasName xml:lang="en">2009–10 Portsmouth F.C. season</fb:hasName>
+    <fb:competesin rdf:resource="http://dbpedia.org/resource/Premier_League"/>
+    <fb:hasStadium rdf:resource="http://dbpedia.org/resource/Fratton_Park"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q185081">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Player"/>
+    <fb:hasName xml:lang="en">Marco Materazzi</fb:hasName>
+    <fb:hasNationality rdf:resource="http://www.wikidata.org/entity/Q38"/>
+    <fb:playsFor rdf:resource="http://www.wikidata.org/entity/Q5794"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q50602">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Team"/>
+    <fb:hasName xml:lang="en">Manchester City F.C.</fb:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q195878">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Player"/>
+    <fb:hasName xml:lang="en">Emanuele Giaccherini</fb:hasName>
+    <fb:hasNationality rdf:resource="http://www.wikidata.org/entity/Q38"/>
+    <fb:playsFor rdf:resource="http://www.wikidata.org/entity/Q18739"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Stamford_Bridge_(stadium)">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Stadium"/>
+    <fb:hasName xml:lang="en">Stamford Bridge (stadium)</fb:hasName>
+    <fb:stadiumCapacity rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">40044</fb:stadiumCapacity>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2025–26_Arsenal_F.C._season">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Team"/>
+    <fb:hasName xml:lang="en">2025–26 Arsenal F.C. season</fb:hasName>
+    <fb:competesin rdf:resource="http://dbpedia.org/resource/Premier_League"/>
+    <fb:hasStadium rdf:resource="http://dbpedia.org/resource/Emirates_Stadium"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q204272">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Player"/>
+    <fb:hasName xml:lang="en">Toni Kallio</fb:hasName>
+    <fb:hasNationality rdf:resource="http://www.wikidata.org/entity/Q33"/>
+    <fb:playsFor rdf:resource="http://www.wikidata.org/entity/Q18708"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2024–25_Arsenal_F.C._season">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Team"/>
+    <fb:hasName xml:lang="en">2024–25 Arsenal F.C. season</fb:hasName>
+    <fb:competesin rdf:resource="http://dbpedia.org/resource/Premier_League"/>
+    <fb:hasStadium rdf:resource="http://dbpedia.org/resource/Emirates_Stadium"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q94864">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Player"/>
+    <fb:hasName xml:lang="en">Pat Van Den Hauwe</fb:hasName>
+    <fb:hasNationality rdf:resource="http://www.wikidata.org/entity/Q31"/>
+    <fb:playsFor rdf:resource="http://www.wikidata.org/entity/Q18741"/>
+    <fb:playsFor rdf:resource="http://www.wikidata.org/entity/Q5794"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/1996–97_Blackburn_Rovers_F.C._season">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Team"/>
+    <fb:hasName xml:lang="en">1996–97 Blackburn Rovers F.C. season</fb:hasName>
+    <fb:competesin rdf:resource="http://dbpedia.org/resource/Premier_League"/>
+    <fb:hasStadium rdf:resource="http://dbpedia.org/resource/Ewood_Park"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2008–09_Hull_City_A.F.C._season">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Team"/>
+    <fb:hasName xml:lang="en">2008–09 Hull City A.F.C. season</fb:hasName>
+    <fb:competesin rdf:resource="http://dbpedia.org/resource/Premier_League"/>
+    <fb:hasStadium rdf:resource="http://dbpedia.org/resource/MKM_Stadium"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2025–26_Chelsea_F.C._season">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Team"/>
+    <fb:hasName xml:lang="en">2025–26 Chelsea F.C. season</fb:hasName>
+    <fb:competesin rdf:resource="http://dbpedia.org/resource/Premier_League"/>
+    <fb:hasStadium rdf:resource="http://dbpedia.org/resource/Stamford_Bridge_(stadium)"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q1130849">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Team"/>
+    <fb:hasName xml:lang="en">Liverpool F.C.</fb:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2021–22_Wolverhampton_Wanderers_F.C._season">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Team"/>
+    <fb:hasName xml:lang="en">2021–22 Wolverhampton Wanderers F.C. season</fb:hasName>
+    <fb:competesin rdf:resource="http://dbpedia.org/resource/Premier_League"/>
+    <fb:hasStadium rdf:resource="http://dbpedia.org/resource/Molineux_Stadium"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q603918">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Player"/>
+    <fb:hasName xml:lang="en">Antonio Núñez</fb:hasName>
+    <fb:hasNationality rdf:resource="http://www.wikidata.org/entity/Q29"/>
+    <fb:playsFor rdf:resource="http://www.wikidata.org/entity/Q1130849"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Riverside_Stadium">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Stadium"/>
+    <fb:hasName xml:lang="en">Riverside Stadium</fb:hasName>
+    <fb:stadiumCapacity rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">34742</fb:stadiumCapacity>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2015–16_AFC_Bournemouth_season">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Team"/>
+    <fb:hasName xml:lang="en">2015–16 AFC Bournemouth season</fb:hasName>
+    <fb:competesin rdf:resource="http://dbpedia.org/resource/Premier_League"/>
+    <fb:hasStadium rdf:resource="http://dbpedia.org/resource/Dean_Court"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2023–24_West_Ham_United_F.C._season">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Team"/>
+    <fb:hasName xml:lang="en">2023–24 West Ham United F.C. season</fb:hasName>
+    <fb:competesin rdf:resource="http://dbpedia.org/resource/Premier_League"/>
+    <fb:hasStadium rdf:resource="http://dbpedia.org/resource/London_Stadium"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2015–16_Chelsea_F.C._season">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Team"/>
+    <fb:hasName xml:lang="en">2015–16 Chelsea F.C. season</fb:hasName>
+    <fb:competesin rdf:resource="http://dbpedia.org/resource/Premier_League"/>
+    <fb:hasStadium rdf:resource="http://dbpedia.org/resource/Stamford_Bridge_(stadium)"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q29">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Country"/>
+    <fb:hasName xml:lang="en">Spain</fb:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/1999–2000_Derby_County_F.C._season">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Team"/>
+    <fb:hasName xml:lang="en">1999–2000 Derby County F.C. season</fb:hasName>
+    <fb:competesin rdf:resource="http://dbpedia.org/resource/Premier_League"/>
+    <fb:hasStadium rdf:resource="http://dbpedia.org/resource/Pride_Park_Stadium"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q208619">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Player"/>
+    <fb:hasName xml:lang="en">Jozy Altidore</fb:hasName>
+    <fb:hasNationality rdf:resource="http://www.wikidata.org/entity/Q30"/>
+    <fb:playsFor rdf:resource="http://www.wikidata.org/entity/Q18739"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q180283">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Player"/>
+    <fb:hasName xml:lang="en">Giorgos Georgiadis</fb:hasName>
+    <fb:hasNationality rdf:resource="http://www.wikidata.org/entity/Q41"/>
+    <fb:playsFor rdf:resource="http://www.wikidata.org/entity/Q18716"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q134976">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Player"/>
+    <fb:hasName xml:lang="en">Lukas Podolski</fb:hasName>
+    <fb:hasNationality rdf:resource="http://www.wikidata.org/entity/Q183"/>
+    <fb:hasNationality rdf:resource="http://www.wikidata.org/entity/Q36"/>
+    <fb:playsFor rdf:resource="http://www.wikidata.org/entity/Q9617"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2000–01_Coventry_City_F.C._season">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Team"/>
+    <fb:hasName xml:lang="en">2000–01 Coventry City F.C. season</fb:hasName>
+    <fb:competesin rdf:resource="http://dbpedia.org/resource/Premier_League"/>
+    <fb:hasStadium rdf:resource="http://dbpedia.org/resource/Highfield_Road"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2013–14_Arsenal_F.C._season">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Team"/>
+    <fb:hasName xml:lang="en">2013–14 Arsenal F.C. season</fb:hasName>
+    <fb:competesin rdf:resource="http://dbpedia.org/resource/Premier_League"/>
+    <fb:hasStadium rdf:resource="http://dbpedia.org/resource/Emirates_Stadium"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/1995–96_Coventry_City_F.C._season">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Team"/>
+    <fb:hasName xml:lang="en">1995–96 Coventry City F.C. season</fb:hasName>
+    <fb:competesin rdf:resource="http://dbpedia.org/resource/Premier_League"/>
+    <fb:hasStadium rdf:resource="http://dbpedia.org/resource/Highfield_Road"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2001–02_Ipswich_Town_F.C._season">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Team"/>
+    <fb:hasName xml:lang="en">2001–02 Ipswich Town F.C. season</fb:hasName>
+    <fb:competesin rdf:resource="http://dbpedia.org/resource/Premier_League"/>
+    <fb:hasStadium rdf:resource="http://dbpedia.org/resource/Portman_Road"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q615786">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Player"/>
+    <fb:hasName xml:lang="en">Joe Mason</fb:hasName>
+    <fb:hasNationality rdf:resource="http://www.wikidata.org/entity/Q27"/>
+    <fb:playsFor rdf:resource="http://www.wikidata.org/entity/Q19500"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q192986">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Player"/>
+    <fb:hasName xml:lang="en">John Carew</fb:hasName>
+    <fb:hasNationality rdf:resource="http://www.wikidata.org/entity/Q20"/>
+    <fb:playsFor rdf:resource="http://www.wikidata.org/entity/Q18711"/>
+    <fb:playsFor rdf:resource="http://www.wikidata.org/entity/Q18747"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/1992–93_Oldham_Athletic_A.F.C._season">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Team"/>
+    <fb:hasName xml:lang="en">1992–93 Oldham Athletic A.F.C. season</fb:hasName>
+    <fb:competesin rdf:resource="http://dbpedia.org/resource/Premier_League"/>
+    <fb:hasStadium rdf:resource="http://dbpedia.org/resource/Boundary_Park"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2005–06_Chelsea_F.C._season">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Team"/>
+    <fb:hasName xml:lang="en">2005–06 Chelsea F.C. season</fb:hasName>
+    <fb:competesin rdf:resource="http://dbpedia.org/resource/Premier_League"/>
+    <fb:hasStadium rdf:resource="http://dbpedia.org/resource/Stamford_Bridge_(stadium)"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q180319">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Player"/>
+    <fb:hasName xml:lang="en">Danny Wilson</fb:hasName>
+    <fb:hasNationality rdf:resource="http://www.wikidata.org/entity/Q145"/>
+    <fb:playsFor rdf:resource="http://www.wikidata.org/entity/Q19453"/>
+    <fb:playsFor rdf:resource="http://www.wikidata.org/entity/Q19490"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q168105">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Player"/>
+    <fb:hasName xml:lang="en">Zbigniew Kruszyński</fb:hasName>
+    <fb:hasNationality rdf:resource="http://www.wikidata.org/entity/Q36"/>
+    <fb:playsFor rdf:resource="http://www.wikidata.org/entity/Q19571"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2020–21_Sheffield_United_F.C._season">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Team"/>
+    <fb:hasName xml:lang="en">2020–21 Sheffield United F.C. season</fb:hasName>
+    <fb:competesin rdf:resource="http://dbpedia.org/resource/Premier_League"/>
+    <fb:hasStadium rdf:resource="http://dbpedia.org/resource/Bramall_Lane"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q185093">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Player"/>
+    <fb:hasName xml:lang="en">Jesús Navas</fb:hasName>
+    <fb:hasNationality rdf:resource="http://www.wikidata.org/entity/Q29"/>
+    <fb:playsFor rdf:resource="http://www.wikidata.org/entity/Q50602"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/King_Power_Stadium">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Stadium"/>
+    <fb:hasName xml:lang="en">King Power Stadium</fb:hasName>
+    <fb:stadiumCapacity rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">32259</fb:stadiumCapacity>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q135610">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Player"/>
+    <fb:hasName xml:lang="en">Brett Holman</fb:hasName>
+    <fb:hasNationality rdf:resource="http://www.wikidata.org/entity/Q408"/>
+    <fb:playsFor rdf:resource="http://www.wikidata.org/entity/Q18711"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q18716">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Team"/>
+    <fb:hasName xml:lang="en">Newcastle United F.C.</fb:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kenilworth_Road">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Stadium"/>
+    <fb:hasName xml:lang="en">Kenilworth Road</fb:hasName>
+    <fb:stadiumCapacity rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">12056</fb:stadiumCapacity>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2017–18_Leicester_City_F.C._season">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Team"/>
+    <fb:hasName xml:lang="en">2017–18 Leicester City F.C. season</fb:hasName>
+    <fb:competesin rdf:resource="http://dbpedia.org/resource/Premier_League"/>
+    <fb:hasStadium rdf:resource="http://dbpedia.org/resource/King_Power_Stadium"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q144402">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Player"/>
+    <fb:hasName xml:lang="en">Zaine Francis-Angol</fb:hasName>
+    <fb:hasNationality rdf:resource="http://www.wikidata.org/entity/Q145"/>
+    <fb:playsFor rdf:resource="http://www.wikidata.org/entity/Q18741"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2024–25_West_Ham_United_F.C._season">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Team"/>
+    <fb:hasName xml:lang="en">2024–25 West Ham United F.C. season</fb:hasName>
+    <fb:competesin rdf:resource="http://dbpedia.org/resource/Premier_League"/>
+    <fb:hasStadium rdf:resource="http://dbpedia.org/resource/London_Stadium"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q72894">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Player"/>
+    <fb:hasName xml:lang="en">Thanos Petsos</fb:hasName>
+    <fb:hasNationality rdf:resource="http://www.wikidata.org/entity/Q41"/>
+    <fb:playsFor rdf:resource="http://www.wikidata.org/entity/Q18708"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q144115">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Player"/>
+    <fb:hasName xml:lang="en">Fred Taylor</fb:hasName>
+    <fb:hasNationality rdf:resource="http://www.wikidata.org/entity/Q145"/>
+    <fb:hasNationality rdf:resource="http://www.wikidata.org/entity/Q174193"/>
+    <fb:playsFor rdf:resource="http://www.wikidata.org/entity/Q9616"/>
+    <fb:playsFor rdf:resource="http://www.wikidata.org/entity/Q19571"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2020–21_Leicester_City_F.C._season">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Team"/>
+    <fb:hasName xml:lang="en">2020–21 Leicester City F.C. season</fb:hasName>
+    <fb:competesin rdf:resource="http://dbpedia.org/resource/Premier_League"/>
+    <fb:hasStadium rdf:resource="http://dbpedia.org/resource/King_Power_Stadium"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hillsborough_Stadium">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Stadium"/>
+    <fb:hasName xml:lang="en">Hillsborough Stadium</fb:hasName>
+    <fb:stadiumCapacity rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">39732</fb:stadiumCapacity>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q204413">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Player"/>
+    <fb:hasName xml:lang="en">Jan Eriksson</fb:hasName>
+    <fb:hasNationality rdf:resource="http://www.wikidata.org/entity/Q34"/>
+    <fb:playsFor rdf:resource="http://www.wikidata.org/entity/Q18739"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/1999–2000_Middlesbrough_F.C._season">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Team"/>
+    <fb:hasName xml:lang="en">1999–2000 Middlesbrough F.C. season</fb:hasName>
+    <fb:competesin rdf:resource="http://dbpedia.org/resource/Premier_League"/>
+    <fb:hasStadium rdf:resource="http://dbpedia.org/resource/Riverside_Stadium"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/ontologies/football#locatedIn">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#TransitiveProperty"/>
+    <rdfs:domain rdf:nodeID="Nc50c50b773c24b83827d77104fe7d0a5"/>
+    <rdfs:range rdf:nodeID="N81fa2d5210674e179d96028526ff5fdf"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q160206">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Player"/>
+    <fb:hasName xml:lang="en">Hernán Crespo</fb:hasName>
+    <fb:hasNationality rdf:resource="http://www.wikidata.org/entity/Q38"/>
+    <fb:playsFor rdf:resource="http://www.wikidata.org/entity/Q9616"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2023–24_AFC_Bournemouth_season">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Team"/>
+    <fb:hasName xml:lang="en">2023–24 AFC Bournemouth season</fb:hasName>
+    <fb:competesin rdf:resource="http://dbpedia.org/resource/Premier_League"/>
+    <fb:hasStadium rdf:resource="http://dbpedia.org/resource/Dean_Court"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/1998–99_Coventry_City_F.C._season">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Team"/>
+    <fb:hasName xml:lang="en">1998–99 Coventry City F.C. season</fb:hasName>
+    <fb:competesin rdf:resource="http://dbpedia.org/resource/Premier_League"/>
+    <fb:hasStadium rdf:resource="http://dbpedia.org/resource/Highfield_Road"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Old_Trafford">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Stadium"/>
+    <fb:hasName xml:lang="en">Old Trafford</fb:hasName>
+    <fb:stadiumCapacity rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">74197</fb:stadiumCapacity>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2016–17_AFC_Bournemouth_season">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Team"/>
+    <fb:hasName xml:lang="en">2016–17 AFC Bournemouth season</fb:hasName>
+    <fb:competesin rdf:resource="http://dbpedia.org/resource/Premier_League"/>
+    <fb:hasStadium rdf:resource="http://dbpedia.org/resource/Dean_Court"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q717">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Country"/>
+    <fb:hasName xml:lang="en">Venezuela</fb:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2004–05_Norwich_City_F.C._season">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Team"/>
+    <fb:hasName xml:lang="en">2004–05 Norwich City F.C. season</fb:hasName>
+    <fb:competesin rdf:resource="http://dbpedia.org/resource/Premier_League"/>
+    <fb:hasStadium rdf:resource="http://dbpedia.org/resource/Carrow_Road"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2022–23_Chelsea_F.C._season">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Team"/>
+    <fb:hasName xml:lang="en">2022–23 Chelsea F.C. season</fb:hasName>
+    <fb:competesin rdf:resource="http://dbpedia.org/resource/Premier_League"/>
+    <fb:hasStadium rdf:resource="http://dbpedia.org/resource/Stamford_Bridge_(stadium)"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N05c430d249fa4685b040bc8459603a99">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Restriction"/>
+    <owl:onProperty rdf:resource="http://www.semanticweb.org/ontologies/football#Team"/>
+    <owl:someValuesFrom rdf:resource="http://www.w3.org/2002/07/owl#rational"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/1994–95_Blackburn_Rovers_F.C._season">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Team"/>
+    <fb:hasName xml:lang="en">1994–95 Blackburn Rovers F.C. season</fb:hasName>
+    <fb:competesin rdf:resource="http://dbpedia.org/resource/Premier_League"/>
+    <fb:hasStadium rdf:resource="http://dbpedia.org/resource/Ewood_Park"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N6d1891398c1b40a4ae330bef6e0f2b1a">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Restriction"/>
+    <owl:onProperty rdf:resource="http://www.semanticweb.org/ontologies/football#Player"/>
+    <owl:someValuesFrom rdf:resource="http://www.w3.org/2002/07/owl#rational"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2000–01_Derby_County_F.C._season">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Team"/>
+    <fb:hasName xml:lang="en">2000–01 Derby County F.C. season</fb:hasName>
+    <fb:competesin rdf:resource="http://dbpedia.org/resource/Premier_League"/>
+    <fb:hasStadium rdf:resource="http://dbpedia.org/resource/Pride_Park_Stadium"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/1998–99_Derby_County_F.C._season">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Team"/>
+    <fb:hasName xml:lang="en">1998–99 Derby County F.C. season</fb:hasName>
+    <fb:competesin rdf:resource="http://dbpedia.org/resource/Premier_League"/>
+    <fb:hasStadium rdf:resource="http://dbpedia.org/resource/Pride_Park_Stadium"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q138839">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Player"/>
+    <fb:hasName xml:lang="en">Wayne Hennessey</fb:hasName>
+    <fb:hasNationality rdf:resource="http://www.wikidata.org/entity/Q145"/>
+    <fb:playsFor rdf:resource="http://www.wikidata.org/entity/Q50602"/>
+    <fb:playsFor rdf:resource="http://www.wikidata.org/entity/Q19458"/>
+    <fb:playsFor rdf:resource="http://www.wikidata.org/entity/Q19467"/>
+    <fb:playsFor rdf:resource="http://www.wikidata.org/entity/Q19490"/>
+    <fb:playsFor rdf:resource="http://www.wikidata.org/entity/Q19500"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2006–07_Portsmouth_F.C._season">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Team"/>
+    <fb:hasName xml:lang="en">2006–07 Portsmouth F.C. season</fb:hasName>
+    <fb:competesin rdf:resource="http://dbpedia.org/resource/Premier_League"/>
+    <fb:hasStadium rdf:resource="http://dbpedia.org/resource/Fratton_Park"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Boundary_Park">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Stadium"/>
+    <fb:hasName xml:lang="en">Boundary Park</fb:hasName>
+    <fb:stadiumCapacity rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">13186</fb:stadiumCapacity>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q109397">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Player"/>
+    <fb:hasName xml:lang="en">Claudio Pizarro</fb:hasName>
+    <fb:hasNationality rdf:resource="http://www.wikidata.org/entity/Q38"/>
+    <fb:playsFor rdf:resource="http://www.wikidata.org/entity/Q9616"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/London_Stadium">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Stadium"/>
+    <fb:hasName xml:lang="en">London Stadium</fb:hasName>
+    <fb:stadiumCapacity rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">68013</fb:stadiumCapacity>
+    <fb:stadiumCapacity rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">80000</fb:stadiumCapacity>
+    <fb:stadiumCapacity rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">62500</fb:stadiumCapacity>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2005–06_Portsmouth_F.C._season">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Team"/>
+    <fb:hasName xml:lang="en">2005–06 Portsmouth F.C. season</fb:hasName>
+    <fb:competesin rdf:resource="http://dbpedia.org/resource/Premier_League"/>
+    <fb:hasStadium rdf:resource="http://dbpedia.org/resource/Fratton_Park"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2000–01_Ipswich_Town_F.C._season">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Team"/>
+    <fb:hasName xml:lang="en">2000–01 Ipswich Town F.C. season</fb:hasName>
+    <fb:competesin rdf:resource="http://dbpedia.org/resource/Premier_League"/>
+    <fb:hasStadium rdf:resource="http://dbpedia.org/resource/Portman_Road"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/ontologies/football#stadiumCapacity">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#DatatypeProperty"/>
+    <rdfs:domain rdf:nodeID="Nbccf8b3ba79d4834bd7577c97ab9d487"/>
+    <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#integer"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2022–23_Leicester_City_F.C._season">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Team"/>
+    <fb:hasName xml:lang="en">2022–23 Leicester City F.C. season</fb:hasName>
+    <fb:competesin rdf:resource="http://dbpedia.org/resource/Premier_League"/>
+    <fb:hasStadium rdf:resource="http://dbpedia.org/resource/King_Power_Stadium"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/1993–94_Sheffield_Wednesday_F.C._season">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Team"/>
+    <fb:hasName xml:lang="en">1993–94 Sheffield Wednesday F.C. season</fb:hasName>
+    <fb:competesin rdf:resource="http://dbpedia.org/resource/Premier_League"/>
+    <fb:hasStadium rdf:resource="http://dbpedia.org/resource/Hillsborough_Stadium"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q118942">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Player"/>
+    <fb:hasName xml:lang="en">Frank Stapleton</fb:hasName>
+    <fb:hasNationality rdf:resource="http://www.wikidata.org/entity/Q27"/>
+    <fb:playsFor rdf:resource="http://www.wikidata.org/entity/Q9617"/>
+    <fb:playsFor rdf:resource="http://www.wikidata.org/entity/Q18656"/>
+    <fb:playsFor rdf:resource="http://www.wikidata.org/entity/Q19453"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2023–24_Brighton_&amp;_Hove_Albion_F.C._season">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Team"/>
+    <fb:hasName xml:lang="en">2023–24 Brighton &amp; Hove Albion F.C. season</fb:hasName>
+    <fb:competesin rdf:resource="http://dbpedia.org/resource/Premier_League"/>
+    <fb:hasStadium rdf:resource="http://dbpedia.org/resource/Falmer_Stadium"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q184612">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Player"/>
+    <fb:hasName xml:lang="en">Robbie Keane</fb:hasName>
+    <fb:hasNationality rdf:resource="http://www.wikidata.org/entity/Q27"/>
+    <fb:playsFor rdf:resource="http://www.wikidata.org/entity/Q1128631"/>
+    <fb:playsFor rdf:resource="http://www.wikidata.org/entity/Q1130849"/>
+    <fb:playsFor rdf:resource="http://www.wikidata.org/entity/Q18711"/>
+    <fb:playsFor rdf:resource="http://www.wikidata.org/entity/Q18741"/>
+    <fb:playsFor rdf:resource="http://www.wikidata.org/entity/Q18747"/>
+    <fb:playsFor rdf:resource="http://www.wikidata.org/entity/Q19500"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2015–16_Watford_F.C._season">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Team"/>
+    <fb:hasName xml:lang="en">2015–16 Watford F.C. season</fb:hasName>
+    <fb:competesin rdf:resource="http://dbpedia.org/resource/Premier_League"/>
+    <fb:hasStadium rdf:resource="http://dbpedia.org/resource/Vicarage_Road"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q180193">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Player"/>
+    <fb:hasName xml:lang="en">Francis Coquelin</fb:hasName>
+    <fb:hasNationality rdf:resource="http://www.wikidata.org/entity/Q142"/>
+    <fb:playsFor rdf:resource="http://www.wikidata.org/entity/Q9617"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2004–05_Portsmouth_F.C._season">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Team"/>
+    <fb:hasName xml:lang="en">2004–05 Portsmouth F.C. season</fb:hasName>
+    <fb:competesin rdf:resource="http://dbpedia.org/resource/Premier_League"/>
+    <fb:hasStadium rdf:resource="http://dbpedia.org/resource/Fratton_Park"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q126903">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Player"/>
+    <fb:hasName xml:lang="en">Lucas Piazón</fb:hasName>
+    <fb:hasNationality rdf:resource="http://www.wikidata.org/entity/Q38"/>
+    <fb:playsFor rdf:resource="http://www.wikidata.org/entity/Q18708"/>
+    <fb:playsFor rdf:resource="http://www.wikidata.org/entity/Q9616"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q132026">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Player"/>
+    <fb:hasName xml:lang="en">David O'Leary</fb:hasName>
+    <fb:hasNationality rdf:resource="http://www.wikidata.org/entity/Q27"/>
+    <fb:playsFor rdf:resource="http://www.wikidata.org/entity/Q9617"/>
+    <fb:playsFor rdf:resource="http://www.wikidata.org/entity/Q1128631"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pride_Park_Stadium">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Stadium"/>
+    <fb:hasName xml:lang="en">Pride Park Stadium</fb:hasName>
+    <fb:stadiumCapacity rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">33597</fb:stadiumCapacity>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q125410">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Player"/>
+    <fb:hasName xml:lang="en">Carlos Cuéllar</fb:hasName>
+    <fb:hasNationality rdf:resource="http://www.wikidata.org/entity/Q29"/>
+    <fb:playsFor rdf:resource="http://www.wikidata.org/entity/Q18711"/>
+    <fb:playsFor rdf:resource="http://www.wikidata.org/entity/Q18739"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q179024">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Player"/>
+    <fb:hasName xml:lang="en">Andy Dawson</fb:hasName>
+    <fb:hasNationality rdf:resource="http://www.wikidata.org/entity/Q145"/>
+    <fb:playsFor rdf:resource="http://www.wikidata.org/entity/Q19490"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N92146c07009540399cb2e75020d3ff50">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Restriction"/>
+    <owl:onProperty rdf:resource="http://www.semanticweb.org/ontologies/football#Stadium"/>
+    <owl:someValuesFrom rdf:resource="http://www.w3.org/2002/07/owl#rational"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2006–07_Sheffield_United_F.C._season">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Team"/>
+    <fb:hasName xml:lang="en">2006–07 Sheffield United F.C. season</fb:hasName>
+    <fb:competesin rdf:resource="http://dbpedia.org/resource/Premier_League"/>
+    <fb:hasStadium rdf:resource="http://dbpedia.org/resource/Bramall_Lane"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2023–24_Luton_Town_F.C._season">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Team"/>
+    <fb:hasName xml:lang="en">2023–24 Luton Town F.C. season</fb:hasName>
+    <fb:competesin rdf:resource="http://dbpedia.org/resource/Premier_League"/>
+    <fb:hasStadium rdf:resource="http://dbpedia.org/resource/Kenilworth_Road"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/MKM_Stadium">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Stadium"/>
+    <fb:hasName xml:lang="en">MKM Stadium</fb:hasName>
+    <fb:stadiumCapacity rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">25586</fb:stadiumCapacity>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/1992–93_Nottingham_Forest_F.C._season">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Team"/>
+    <fb:hasName xml:lang="en">1992–93 Nottingham Forest F.C. season</fb:hasName>
+    <fb:competesin rdf:resource="http://dbpedia.org/resource/Premier_League"/>
+    <fb:hasStadium rdf:resource="http://dbpedia.org/resource/City_Ground"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2023–24_Fulham_F.C._season">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Team"/>
+    <fb:hasName xml:lang="en">2023–24 Fulham F.C. season</fb:hasName>
+    <fb:competesin rdf:resource="http://dbpedia.org/resource/Premier_League"/>
+    <fb:hasStadium rdf:resource="http://dbpedia.org/resource/Craven_Cottage"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q616664">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Player"/>
+    <fb:hasName xml:lang="en">Casemiro</fb:hasName>
+    <fb:hasNationality rdf:resource="http://www.wikidata.org/entity/Q29"/>
+    <fb:playsFor rdf:resource="http://www.wikidata.org/entity/Q18656"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q38">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Country"/>
+    <fb:hasName xml:lang="en">Italy</fb:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dean_Court">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Stadium"/>
+    <fb:hasName xml:lang="en">Dean Court</fb:hasName>
+    <fb:stadiumCapacity rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">11307</fb:stadiumCapacity>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q137899">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Player"/>
+    <fb:hasName xml:lang="en">Noureddine Naybet</fb:hasName>
+    <fb:hasNationality rdf:resource="http://www.wikidata.org/entity/Q1028"/>
+    <fb:playsFor rdf:resource="http://www.wikidata.org/entity/Q18741"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q178312">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Player"/>
+    <fb:hasName xml:lang="en">Peter Osgood</fb:hasName>
+    <fb:hasNationality rdf:resource="http://www.wikidata.org/entity/Q145"/>
+    <fb:playsFor rdf:resource="http://www.wikidata.org/entity/Q9616"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2020–21_West_Ham_United_F.C._season">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Team"/>
+    <fb:hasName xml:lang="en">2020–21 West Ham United F.C. season</fb:hasName>
+    <fb:competesin rdf:resource="http://dbpedia.org/resource/Premier_League"/>
+    <fb:hasStadium rdf:resource="http://dbpedia.org/resource/London_Stadium"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q174193">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Country"/>
+    <fb:hasName xml:lang="en">United Kingdom of Great Britain and Ireland</fb:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Naab6af69f3754ce893d77077fe7caff6">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Restriction"/>
+    <owl:onProperty rdf:resource="http://www.semanticweb.org/ontologies/football#League"/>
+    <owl:someValuesFrom rdf:resource="http://www.w3.org/2002/07/owl#rational"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2024–25_Ipswich_Town_F.C._season">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Team"/>
+    <fb:hasName xml:lang="en">2024–25 Ipswich Town F.C. season</fb:hasName>
+    <fb:competesin rdf:resource="http://dbpedia.org/resource/Premier_League"/>
+    <fb:hasStadium rdf:resource="http://dbpedia.org/resource/Portman_Road"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2011–12_Queens_Park_Rangers_F.C._season">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Team"/>
+    <fb:hasName xml:lang="en">2011–12 Queens Park Rangers F.C. season</fb:hasName>
+    <fb:competesin rdf:resource="http://dbpedia.org/resource/Premier_League"/>
+    <fb:hasStadium rdf:resource="http://dbpedia.org/resource/Loftus_Road"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q142283">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Player"/>
+    <fb:hasName xml:lang="en">Michael Tarnat</fb:hasName>
+    <fb:hasNationality rdf:resource="http://www.wikidata.org/entity/Q183"/>
+    <fb:playsFor rdf:resource="http://www.wikidata.org/entity/Q50602"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q144579">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Player"/>
+    <fb:hasName xml:lang="en">Zak Whitbread</fb:hasName>
+    <fb:hasNationality rdf:resource="http://www.wikidata.org/entity/Q30"/>
+    <fb:playsFor rdf:resource="http://www.wikidata.org/entity/Q1130849"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/1994–95_Queens_Park_Rangers_F.C._season">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Team"/>
+    <fb:hasName xml:lang="en">1994–95 Queens Park Rangers F.C. season</fb:hasName>
+    <fb:competesin rdf:resource="http://dbpedia.org/resource/Premier_League"/>
+    <fb:hasStadium rdf:resource="http://dbpedia.org/resource/Loftus_Road"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N60c6c29fce06463b9f02f43010d37ec8">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Restriction"/>
+    <owl:onProperty rdf:resource="http://www.semanticweb.org/ontologies/football#Player"/>
+    <owl:someValuesFrom rdf:resource="http://www.w3.org/2002/07/owl#rational"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2021–22_Arsenal_F.C._season">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Team"/>
+    <fb:hasName xml:lang="en">2021–22 Arsenal F.C. season</fb:hasName>
+    <fb:competesin rdf:resource="http://dbpedia.org/resource/Premier_League"/>
+    <fb:hasStadium rdf:resource="http://dbpedia.org/resource/Emirates_Stadium"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/1992–93_Ipswich_Town_F.C._season">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Team"/>
+    <fb:hasName xml:lang="en">1992–93 Ipswich Town F.C. season</fb:hasName>
+    <fb:competesin rdf:resource="http://dbpedia.org/resource/Premier_League"/>
+    <fb:hasStadium rdf:resource="http://dbpedia.org/resource/Portman_Road"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q126332">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Player"/>
+    <fb:hasName xml:lang="en">David Meyler</fb:hasName>
+    <fb:hasNationality rdf:resource="http://www.wikidata.org/entity/Q27"/>
+    <fb:playsFor rdf:resource="http://www.wikidata.org/entity/Q18739"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2007–08_Portsmouth_F.C._season">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Team"/>
+    <fb:hasName xml:lang="en">2007–08 Portsmouth F.C. season</fb:hasName>
+    <fb:competesin rdf:resource="http://dbpedia.org/resource/Premier_League"/>
+    <fb:hasStadium rdf:resource="http://dbpedia.org/resource/Fratton_Park"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q138172">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Player"/>
+    <fb:hasName xml:lang="en">Radamel Falcao</fb:hasName>
+    <fb:hasNationality rdf:resource="http://www.wikidata.org/entity/Q739"/>
+    <fb:hasNationality rdf:resource="http://www.wikidata.org/entity/Q717"/>
+    <fb:playsFor rdf:resource="http://www.wikidata.org/entity/Q18656"/>
+    <fb:playsFor rdf:resource="http://www.wikidata.org/entity/Q9616"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2025–26_Brighton_&amp;_Hove_Albion_F.C._season">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Team"/>
+    <fb:hasName xml:lang="en">2025–26 Brighton &amp; Hove Albion F.C. season</fb:hasName>
+    <fb:competesin rdf:resource="http://dbpedia.org/resource/Premier_League"/>
+    <fb:hasStadium rdf:resource="http://dbpedia.org/resource/Falmer_Stadium"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q19490">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Team"/>
+    <fb:hasName xml:lang="en">Nottingham Forest F.C.</fb:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2024–25_Brentford_F.C._season">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Team"/>
+    <fb:hasName xml:lang="en">2024–25 Brentford F.C. season</fb:hasName>
+    <fb:competesin rdf:resource="http://dbpedia.org/resource/Premier_League"/>
+    <fb:hasStadium rdf:resource="http://dbpedia.org/resource/Brentford_Community_Stadium"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2013–14_Fulham_F.C._season">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Team"/>
+    <fb:hasName xml:lang="en">2013–14 Fulham F.C. season</fb:hasName>
+    <fb:competesin rdf:resource="http://dbpedia.org/resource/Premier_League"/>
+    <fb:hasStadium rdf:resource="http://dbpedia.org/resource/Craven_Cottage"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nfcf0a28fa3d24473be3007d16720f281">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Restriction"/>
+    <owl:onProperty rdf:resource="http://www.semanticweb.org/ontologies/football#Country"/>
+    <owl:someValuesFrom rdf:resource="http://www.w3.org/2002/07/owl#rational"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/1998–99_Nottingham_Forest_F.C._season">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Team"/>
+    <fb:hasName xml:lang="en">1998–99 Nottingham Forest F.C. season</fb:hasName>
+    <fb:competesin rdf:resource="http://dbpedia.org/resource/Premier_League"/>
+    <fb:hasStadium rdf:resource="http://dbpedia.org/resource/City_Ground"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2014–15_Leicester_City_F.C._season">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Team"/>
+    <fb:hasName xml:lang="en">2014–15 Leicester City F.C. season</fb:hasName>
+    <fb:competesin rdf:resource="http://dbpedia.org/resource/Premier_League"/>
+    <fb:hasStadium rdf:resource="http://dbpedia.org/resource/King_Power_Stadium"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/1992–93_Sheffield_United_F.C._season">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Team"/>
+    <fb:hasName xml:lang="en">1992–93 Sheffield United F.C. season</fb:hasName>
+    <fb:competesin rdf:resource="http://dbpedia.org/resource/Premier_League"/>
+    <fb:hasStadium rdf:resource="http://dbpedia.org/resource/Bramall_Lane"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2020–21_Fulham_F.C._season">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Team"/>
+    <fb:hasName xml:lang="en">2020–21 Fulham F.C. season</fb:hasName>
+    <fb:competesin rdf:resource="http://dbpedia.org/resource/Premier_League"/>
+    <fb:hasStadium rdf:resource="http://dbpedia.org/resource/Craven_Cottage"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/1994–95_Chelsea_F.C._season">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Team"/>
+    <fb:hasName xml:lang="en">1994–95 Chelsea F.C. season</fb:hasName>
+    <fb:competesin rdf:resource="http://dbpedia.org/resource/Premier_League"/>
+    <fb:hasStadium rdf:resource="http://dbpedia.org/resource/Stamford_Bridge_(stadium)"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q165639">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Player"/>
+    <fb:hasName xml:lang="en">Michael Doyle</fb:hasName>
+    <fb:hasNationality rdf:resource="http://www.wikidata.org/entity/Q27"/>
+    <fb:playsFor rdf:resource="http://www.wikidata.org/entity/Q1128631"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Portman_Road">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Stadium"/>
+    <fb:hasName xml:lang="en">Portman Road</fb:hasName>
+    <fb:stadiumCapacity rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">30056</fb:stadiumCapacity>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q194769">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Player"/>
+    <fb:hasName xml:lang="en">Omar Elabdellaoui</fb:hasName>
+    <fb:hasNationality rdf:resource="http://www.wikidata.org/entity/Q20"/>
+    <fb:playsFor rdf:resource="http://www.wikidata.org/entity/Q50602"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q192491">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Player"/>
+    <fb:hasName xml:lang="en">Olof Mellberg</fb:hasName>
+    <fb:hasNationality rdf:resource="http://www.wikidata.org/entity/Q34"/>
+    <fb:playsFor rdf:resource="http://www.wikidata.org/entity/Q18711"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2022–23_Wolverhampton_Wanderers_F.C._season">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Team"/>
+    <fb:hasName xml:lang="en">2022–23 Wolverhampton Wanderers F.C. season</fb:hasName>
+    <fb:competesin rdf:resource="http://dbpedia.org/resource/Premier_League"/>
+    <fb:hasStadium rdf:resource="http://dbpedia.org/resource/Molineux_Stadium"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q159032">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Player"/>
+    <fb:hasName xml:lang="en">Ricardo Vaz Tê</fb:hasName>
+    <fb:hasNationality rdf:resource="http://www.wikidata.org/entity/Q45"/>
+    <fb:playsFor rdf:resource="http://www.wikidata.org/entity/Q18747"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q207464">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Player"/>
+    <fb:hasName xml:lang="en">Oguchi Onyewu</fb:hasName>
+    <fb:hasNationality rdf:resource="http://www.wikidata.org/entity/Q30"/>
+    <fb:playsFor rdf:resource="http://www.wikidata.org/entity/Q18716"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2024–25_Manchester_United_F.C._season">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Team"/>
+    <fb:hasName xml:lang="en">2024–25 Manchester United F.C. season</fb:hasName>
+    <fb:competesin rdf:resource="http://dbpedia.org/resource/Premier_League"/>
+    <fb:hasStadium rdf:resource="http://dbpedia.org/resource/Old_Trafford"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2010–11_Blackburn_Rovers_F.C._season">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Team"/>
+    <fb:hasName xml:lang="en">2010–11 Blackburn Rovers F.C. season</fb:hasName>
+    <fb:competesin rdf:resource="http://dbpedia.org/resource/Premier_League"/>
+    <fb:hasStadium rdf:resource="http://dbpedia.org/resource/Ewood_Park"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/ontologies/football#basedIn">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+    <rdfs:domain rdf:nodeID="Ndef1f64d4c7043949f1ef6fb0e4ddce3"/>
+    <rdfs:range rdf:nodeID="Nfcf0a28fa3d24473be3007d16720f281"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2024–25_Nottingham_Forest_F.C._season">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Team"/>
+    <fb:hasName xml:lang="en">2024–25 Nottingham Forest F.C. season</fb:hasName>
+    <fb:competesin rdf:resource="http://dbpedia.org/resource/Premier_League"/>
+    <fb:hasStadium rdf:resource="http://dbpedia.org/resource/City_Ground"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2016–17_Chelsea_F.C._season">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Team"/>
+    <fb:hasName xml:lang="en">2016–17 Chelsea F.C. season</fb:hasName>
+    <fb:competesin rdf:resource="http://dbpedia.org/resource/Premier_League"/>
+    <fb:hasStadium rdf:resource="http://dbpedia.org/resource/Stamford_Bridge_(stadium)"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2014–15_Hull_City_A.F.C._season">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Team"/>
+    <fb:hasName xml:lang="en">2014–15 Hull City A.F.C. season</fb:hasName>
+    <fb:competesin rdf:resource="http://dbpedia.org/resource/Premier_League"/>
+    <fb:hasStadium rdf:resource="http://dbpedia.org/resource/MKM_Stadium"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q18656">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Team"/>
+    <fb:hasName xml:lang="en">Manchester United F.C.</fb:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2022–23_Brighton_&amp;_Hove_Albion_F.C._season">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Team"/>
+    <fb:hasName xml:lang="en">2022–23 Brighton &amp; Hove Albion F.C. season</fb:hasName>
+    <fb:competesin rdf:resource="http://dbpedia.org/resource/Premier_League"/>
+    <fb:hasStadium rdf:resource="http://dbpedia.org/resource/Falmer_Stadium"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q40">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Country"/>
+    <fb:hasName xml:lang="en">Austria</fb:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/ontologies/football#hasStadium">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#FunctionalProperty"/>
+    <rdfs:domain rdf:nodeID="N05c430d249fa4685b040bc8459603a99"/>
+    <rdfs:range rdf:nodeID="N92146c07009540399cb2e75020d3ff50"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2003–04_Leicester_City_F.C._season">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Team"/>
+    <fb:hasName xml:lang="en">2003–04 Leicester City F.C. season</fb:hasName>
+    <fb:competesin rdf:resource="http://dbpedia.org/resource/Premier_League"/>
+    <fb:hasStadium rdf:resource="http://dbpedia.org/resource/King_Power_Stadium"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q143489">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Player"/>
+    <fb:hasName xml:lang="en">Willie Maley</fb:hasName>
+    <fb:hasNationality rdf:resource="http://www.wikidata.org/entity/Q145"/>
+    <fb:hasNationality rdf:resource="http://www.wikidata.org/entity/Q174193"/>
+    <fb:playsFor rdf:resource="http://www.wikidata.org/entity/Q50602"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2016–17_Leicester_City_F.C._season">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Team"/>
+    <fb:hasName xml:lang="en">2016–17 Leicester City F.C. season</fb:hasName>
+    <fb:competesin rdf:resource="http://dbpedia.org/resource/Premier_League"/>
+    <fb:hasStadium rdf:resource="http://dbpedia.org/resource/King_Power_Stadium"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2018–19_Arsenal_F.C._season">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Team"/>
+    <fb:hasName xml:lang="en">2018–19 Arsenal F.C. season</fb:hasName>
+    <fb:competesin rdf:resource="http://dbpedia.org/resource/Premier_League"/>
+    <fb:hasStadium rdf:resource="http://dbpedia.org/resource/Emirates_Stadium"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nae4e2be5fa164b81832976c93fe5a729">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Restriction"/>
+    <owl:onProperty rdf:resource="http://www.semanticweb.org/ontologies/football#Country"/>
+    <owl:someValuesFrom rdf:resource="http://www.w3.org/2002/07/owl#rational"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2022–23_Arsenal_F.C._season">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Team"/>
+    <fb:hasName xml:lang="en">2022–23 Arsenal F.C. season</fb:hasName>
+    <fb:competesin rdf:resource="http://dbpedia.org/resource/Premier_League"/>
+    <fb:hasStadium rdf:resource="http://dbpedia.org/resource/Emirates_Stadium"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2022–23_Fulham_F.C._season">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Team"/>
+    <fb:hasName xml:lang="en">2022–23 Fulham F.C. season</fb:hasName>
+    <fb:competesin rdf:resource="http://dbpedia.org/resource/Premier_League"/>
+    <fb:hasStadium rdf:resource="http://dbpedia.org/resource/Craven_Cottage"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/1999–2000_Coventry_City_F.C._season">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Team"/>
+    <fb:hasName xml:lang="en">1999–2000 Coventry City F.C. season</fb:hasName>
+    <fb:competesin rdf:resource="http://dbpedia.org/resource/Premier_League"/>
+    <fb:hasStadium rdf:resource="http://dbpedia.org/resource/Highfield_Road"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2019–20_Watford_F.C._season">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Team"/>
+    <fb:hasName xml:lang="en">2019–20 Watford F.C. season</fb:hasName>
+    <fb:competesin rdf:resource="http://dbpedia.org/resource/Premier_League"/>
+    <fb:hasStadium rdf:resource="http://dbpedia.org/resource/Vicarage_Road"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2024–25_Chelsea_F.C._season">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Team"/>
+    <fb:hasName xml:lang="en">2024–25 Chelsea F.C. season</fb:hasName>
+    <fb:competesin rdf:resource="http://dbpedia.org/resource/Premier_League"/>
+    <fb:hasStadium rdf:resource="http://dbpedia.org/resource/Stamford_Bridge_(stadium)"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/1992–93_Blackburn_Rovers_F.C._season">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Team"/>
+    <fb:hasName xml:lang="en">1992–93 Blackburn Rovers F.C. season</fb:hasName>
+    <fb:competesin rdf:resource="http://dbpedia.org/resource/Premier_League"/>
+    <fb:hasStadium rdf:resource="http://dbpedia.org/resource/Ewood_Park"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q616045">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Player"/>
+    <fb:hasName xml:lang="en">Keith Treacy</fb:hasName>
+    <fb:hasNationality rdf:resource="http://www.wikidata.org/entity/Q27"/>
+    <fb:playsFor rdf:resource="http://www.wikidata.org/entity/Q19458"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2023–24_Wolverhampton_Wanderers_F.C._season">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Team"/>
+    <fb:hasName xml:lang="en">2023–24 Wolverhampton Wanderers F.C. season</fb:hasName>
+    <fb:competesin rdf:resource="http://dbpedia.org/resource/Premier_League"/>
+    <fb:hasStadium rdf:resource="http://dbpedia.org/resource/Molineux_Stadium"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q112949">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Player"/>
+    <fb:hasName xml:lang="en">Magnus Wolff Eikrem</fb:hasName>
+    <fb:hasNationality rdf:resource="http://www.wikidata.org/entity/Q20"/>
+    <fb:playsFor rdf:resource="http://www.wikidata.org/entity/Q18656"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2012–13_Reading_F.C._season">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Team"/>
+    <fb:hasName xml:lang="en">2012–13 Reading F.C. season</fb:hasName>
+    <fb:competesin rdf:resource="http://dbpedia.org/resource/Premier_League"/>
+    <fb:hasStadium rdf:resource="http://dbpedia.org/resource/Madejski_Stadium"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Madejski_Stadium">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Stadium"/>
+    <fb:hasName xml:lang="en">Madejski Stadium</fb:hasName>
+    <fb:stadiumCapacity rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">24161</fb:stadiumCapacity>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2000–01_Middlesbrough_F.C._season">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Team"/>
+    <fb:hasName xml:lang="en">2000–01 Middlesbrough F.C. season</fb:hasName>
+    <fb:competesin rdf:resource="http://dbpedia.org/resource/Premier_League"/>
+    <fb:hasStadium rdf:resource="http://dbpedia.org/resource/Riverside_Stadium"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/1994–95_Coventry_City_F.C._season">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Team"/>
+    <fb:hasName xml:lang="en">1994–95 Coventry City F.C. season</fb:hasName>
+    <fb:competesin rdf:resource="http://dbpedia.org/resource/Premier_League"/>
+    <fb:hasStadium rdf:resource="http://dbpedia.org/resource/Highfield_Road"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q180444">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Player"/>
+    <fb:hasName xml:lang="en">Eduardo da Silva</fb:hasName>
+    <fb:hasNationality rdf:resource="http://www.wikidata.org/entity/Q155"/>
+    <fb:hasNationality rdf:resource="http://www.wikidata.org/entity/Q224"/>
+    <fb:playsFor rdf:resource="http://www.wikidata.org/entity/Q9617"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2019–20_Chelsea_F.C._season">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Team"/>
+    <fb:hasName xml:lang="en">2019–20 Chelsea F.C. season</fb:hasName>
+    <fb:competesin rdf:resource="http://dbpedia.org/resource/Premier_League"/>
+    <fb:hasStadium rdf:resource="http://dbpedia.org/resource/Stamford_Bridge_(stadium)"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/1993–94_Oldham_Athletic_A.F.C._season">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Team"/>
+    <fb:hasName xml:lang="en">1993–94 Oldham Athletic A.F.C. season</fb:hasName>
+    <fb:competesin rdf:resource="http://dbpedia.org/resource/Premier_League"/>
+    <fb:hasStadium rdf:resource="http://dbpedia.org/resource/Boundary_Park"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2015–16_Crystal_Palace_F.C._season">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Team"/>
+    <fb:hasName xml:lang="en">2015–16 Crystal Palace F.C. season</fb:hasName>
+    <fb:competesin rdf:resource="http://dbpedia.org/resource/Premier_League"/>
+    <fb:hasStadium rdf:resource="http://dbpedia.org/resource/Selhurst_Park"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q191151">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Player"/>
+    <fb:hasName xml:lang="en">Alberto Aquilani</fb:hasName>
+    <fb:hasNationality rdf:resource="http://www.wikidata.org/entity/Q38"/>
+    <fb:playsFor rdf:resource="http://www.wikidata.org/entity/Q1130849"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/1996–97_Nottingham_Forest_F.C._season">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Team"/>
+    <fb:hasName xml:lang="en">1996–97 Nottingham Forest F.C. season</fb:hasName>
+    <fb:competesin rdf:resource="http://dbpedia.org/resource/Premier_League"/>
+    <fb:hasStadium rdf:resource="http://dbpedia.org/resource/City_Ground"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q739">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Country"/>
+    <fb:hasName xml:lang="en">Colombia</fb:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q175738">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Player"/>
+    <fb:hasName xml:lang="en">Carlos Merino</fb:hasName>
+    <fb:hasNationality rdf:resource="http://www.wikidata.org/entity/Q29"/>
+    <fb:playsFor rdf:resource="http://www.wikidata.org/entity/Q19490"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2015–16_Leicester_City_F.C._season">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Team"/>
+    <fb:hasName xml:lang="en">2015–16 Leicester City F.C. season</fb:hasName>
+    <fb:competesin rdf:resource="http://dbpedia.org/resource/Premier_League"/>
+    <fb:hasStadium rdf:resource="http://dbpedia.org/resource/King_Power_Stadium"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2011–12_Chelsea_F.C._season">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Team"/>
+    <fb:hasName xml:lang="en">2011–12 Chelsea F.C. season</fb:hasName>
+    <fb:competesin rdf:resource="http://dbpedia.org/resource/Premier_League"/>
+    <fb:hasStadium rdf:resource="http://dbpedia.org/resource/Stamford_Bridge_(stadium)"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2016–17_West_Ham_United_F.C._season">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Team"/>
+    <fb:hasName xml:lang="en">2016–17 West Ham United F.C. season</fb:hasName>
+    <fb:competesin rdf:resource="http://dbpedia.org/resource/Premier_League"/>
+    <fb:hasStadium rdf:resource="http://dbpedia.org/resource/London_Stadium"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q183">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Country"/>
+    <fb:hasName xml:lang="en">Germany</fb:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2014–15_Arsenal_F.C._season">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Team"/>
+    <fb:hasName xml:lang="en">2014–15 Arsenal F.C. season</fb:hasName>
+    <fb:competesin rdf:resource="http://dbpedia.org/resource/Premier_League"/>
+    <fb:hasStadium rdf:resource="http://dbpedia.org/resource/Emirates_Stadium"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q174615">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Player"/>
+    <fb:hasName xml:lang="en">Phil Babb</fb:hasName>
+    <fb:hasNationality rdf:resource="http://www.wikidata.org/entity/Q27"/>
+    <fb:playsFor rdf:resource="http://www.wikidata.org/entity/Q18739"/>
+    <fb:playsFor rdf:resource="http://www.wikidata.org/entity/Q1130849"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cardiff_City_Stadium">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Stadium"/>
+    <fb:hasName xml:lang="en">Cardiff City Stadium</fb:hasName>
+    <fb:stadiumCapacity rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">33280</fb:stadiumCapacity>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2008–09_Fulham_F.C._season">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Team"/>
+    <fb:hasName xml:lang="en">2008–09 Fulham F.C. season</fb:hasName>
+    <fb:competesin rdf:resource="http://dbpedia.org/resource/Premier_League"/>
+    <fb:hasStadium rdf:resource="http://dbpedia.org/resource/Craven_Cottage"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/ontologies/football#Team">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#DatatypeProperty"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q187450">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Player"/>
+    <fb:hasName xml:lang="en">Philippe Senderos</fb:hasName>
+    <fb:hasNationality rdf:resource="http://www.wikidata.org/entity/Q39"/>
+    <fb:playsFor rdf:resource="http://www.wikidata.org/entity/Q18708"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q116067">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Player"/>
+    <fb:hasName xml:lang="en">Philipp Degen</fb:hasName>
+    <fb:hasNationality rdf:resource="http://www.wikidata.org/entity/Q39"/>
+    <fb:playsFor rdf:resource="http://www.wikidata.org/entity/Q1130849"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2025–26_AFC_Bournemouth_season">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Team"/>
+    <fb:hasName xml:lang="en">2025–26 AFC Bournemouth season</fb:hasName>
+    <fb:competesin rdf:resource="http://dbpedia.org/resource/Premier_League"/>
+    <fb:hasStadium rdf:resource="http://dbpedia.org/resource/Dean_Court"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q188632">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Player"/>
+    <fb:hasName xml:lang="en">Roy Keane</fb:hasName>
+    <fb:hasNationality rdf:resource="http://www.wikidata.org/entity/Q27"/>
+    <fb:playsFor rdf:resource="http://www.wikidata.org/entity/Q18656"/>
+    <fb:playsFor rdf:resource="http://www.wikidata.org/entity/Q19490"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Carrow_Road">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Stadium"/>
+    <fb:hasName xml:lang="en">Carrow Road</fb:hasName>
+    <fb:stadiumCapacity rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">27150</fb:stadiumCapacity>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2003–04_Wolverhampton_Wanderers_F.C._season">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Team"/>
+    <fb:hasName xml:lang="en">2003–04 Wolverhampton Wanderers F.C. season</fb:hasName>
+    <fb:competesin rdf:resource="http://dbpedia.org/resource/Premier_League"/>
+    <fb:hasStadium rdf:resource="http://dbpedia.org/resource/Molineux_Stadium"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/ontologies/football#hasNationality">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+    <rdfs:domain rdf:nodeID="N9af1228fecc4407291769a3ccda28c88"/>
+    <rdfs:range rdf:nodeID="N0b6815238e1a484a9feaeacf9849ee01"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q135314">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Player"/>
+    <fb:hasName xml:lang="en">Gabriel Agbonlahor</fb:hasName>
+    <fb:hasNationality rdf:resource="http://www.wikidata.org/entity/Q145"/>
+    <fb:playsFor rdf:resource="http://www.wikidata.org/entity/Q18711"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q77">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Country"/>
+    <fb:hasName xml:lang="en">Uruguay</fb:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2022–23_Nottingham_Forest_F.C._season">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Team"/>
+    <fb:hasName xml:lang="en">2022–23 Nottingham Forest F.C. season</fb:hasName>
+    <fb:competesin rdf:resource="http://dbpedia.org/resource/Premier_League"/>
+    <fb:hasStadium rdf:resource="http://dbpedia.org/resource/City_Ground"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q137724">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Player"/>
+    <fb:hasName xml:lang="en">Ken Monkou</fb:hasName>
+    <fb:hasNationality rdf:resource="http://www.wikidata.org/entity/Q29999"/>
+    <fb:playsFor rdf:resource="http://www.wikidata.org/entity/Q9616"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2006–07_Watford_F.C._season">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Team"/>
+    <fb:hasName xml:lang="en">2006–07 Watford F.C. season</fb:hasName>
+    <fb:competesin rdf:resource="http://dbpedia.org/resource/Premier_League"/>
+    <fb:hasStadium rdf:resource="http://dbpedia.org/resource/Vicarage_Road"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Premier_League">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#League"/>
+    <fb:hasName xml:lang="en">Premier League</fb:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q192971">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Player"/>
+    <fb:hasName xml:lang="en">Damien Duff</fb:hasName>
+    <fb:hasNationality rdf:resource="http://www.wikidata.org/entity/Q27"/>
+    <fb:playsFor rdf:resource="http://www.wikidata.org/entity/Q18708"/>
+    <fb:playsFor rdf:resource="http://www.wikidata.org/entity/Q18716"/>
+    <fb:playsFor rdf:resource="http://www.wikidata.org/entity/Q9616"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q27">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Country"/>
+    <fb:hasName xml:lang="en">Ireland</fb:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q183233">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Player"/>
+    <fb:hasName xml:lang="en">Thorstein Helstad</fb:hasName>
+    <fb:hasNationality rdf:resource="http://www.wikidata.org/entity/Q20"/>
+    <fb:playsFor rdf:resource="http://www.wikidata.org/entity/Q1128631"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2019–20_AFC_Bournemouth_season">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Team"/>
+    <fb:hasName xml:lang="en">2019–20 AFC Bournemouth season</fb:hasName>
+    <fb:competesin rdf:resource="http://dbpedia.org/resource/Premier_League"/>
+    <fb:hasStadium rdf:resource="http://dbpedia.org/resource/Dean_Court"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N615edb2ab61846739cdb8b6d5269a413">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Restriction"/>
+    <owl:onProperty rdf:resource="http://www.semanticweb.org/ontologies/football#Player"/>
+    <owl:someValuesFrom rdf:resource="http://www.w3.org/2002/07/owl#rational"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N3b470ac1a3704c608c7e1e9335500a7a">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Restriction"/>
+    <owl:onProperty rdf:resource="http://www.semanticweb.org/ontologies/football#Team"/>
+    <owl:someValuesFrom rdf:resource="http://www.w3.org/2002/07/owl#rational"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2015–16_Arsenal_F.C._season">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Team"/>
+    <fb:hasName xml:lang="en">2015–16 Arsenal F.C. season</fb:hasName>
+    <fb:competesin rdf:resource="http://dbpedia.org/resource/Premier_League"/>
+    <fb:hasStadium rdf:resource="http://dbpedia.org/resource/Emirates_Stadium"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2023–24_Sheffield_United_F.C._season">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Team"/>
+    <fb:hasName xml:lang="en">2023–24 Sheffield United F.C. season</fb:hasName>
+    <fb:competesin rdf:resource="http://dbpedia.org/resource/Premier_League"/>
+    <fb:hasStadium rdf:resource="http://dbpedia.org/resource/Bramall_Lane"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q185572">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Player"/>
+    <fb:hasName xml:lang="en">Mikel Arteta</fb:hasName>
+    <fb:hasNationality rdf:resource="http://www.wikidata.org/entity/Q29"/>
+    <fb:playsFor rdf:resource="http://www.wikidata.org/entity/Q5794"/>
+    <fb:playsFor rdf:resource="http://www.wikidata.org/entity/Q9617"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2024–25_Wolverhampton_Wanderers_F.C._season">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Team"/>
+    <fb:hasName xml:lang="en">2024–25 Wolverhampton Wanderers F.C. season</fb:hasName>
+    <fb:competesin rdf:resource="http://dbpedia.org/resource/Premier_League"/>
+    <fb:hasStadium rdf:resource="http://dbpedia.org/resource/Molineux_Stadium"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q167225">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Player"/>
+    <fb:hasName xml:lang="en">Marius Žaliūkas</fb:hasName>
+    <fb:hasNationality rdf:resource="http://www.wikidata.org/entity/Q37"/>
+    <fb:playsFor rdf:resource="http://www.wikidata.org/entity/Q1128631"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N9af1228fecc4407291769a3ccda28c88">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Restriction"/>
+    <owl:onProperty rdf:resource="http://www.semanticweb.org/ontologies/football#Player"/>
+    <owl:someValuesFrom rdf:resource="http://www.w3.org/2002/07/owl#rational"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q178195">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Player"/>
+    <fb:hasName xml:lang="en">Luke Moore</fb:hasName>
+    <fb:hasNationality rdf:resource="http://www.wikidata.org/entity/Q145"/>
+    <fb:playsFor rdf:resource="http://www.wikidata.org/entity/Q18711"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q41">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Country"/>
+    <fb:hasName xml:lang="en">Greece</fb:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/1992–93_Queens_Park_Rangers_F.C._season">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Team"/>
+    <fb:hasName xml:lang="en">1992–93 Queens Park Rangers F.C. season</fb:hasName>
+    <fb:competesin rdf:resource="http://dbpedia.org/resource/Premier_League"/>
+    <fb:hasStadium rdf:resource="http://dbpedia.org/resource/Loftus_Road"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q83638">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Player"/>
+    <fb:hasName xml:lang="en">Sebastian Larsson</fb:hasName>
+    <fb:hasNationality rdf:resource="http://www.wikidata.org/entity/Q34"/>
+    <fb:playsFor rdf:resource="http://www.wikidata.org/entity/Q18739"/>
+    <fb:playsFor rdf:resource="http://www.wikidata.org/entity/Q9617"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2017–18_Watford_F.C._season">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Team"/>
+    <fb:hasName xml:lang="en">2017–18 Watford F.C. season</fb:hasName>
+    <fb:competesin rdf:resource="http://dbpedia.org/resource/Premier_League"/>
+    <fb:hasStadium rdf:resource="http://dbpedia.org/resource/Vicarage_Road"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/1992–93_Coventry_City_F.C._season">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Team"/>
+    <fb:hasName xml:lang="en">1992–93 Coventry City F.C. season</fb:hasName>
+    <fb:competesin rdf:resource="http://dbpedia.org/resource/Premier_League"/>
+    <fb:hasStadium rdf:resource="http://dbpedia.org/resource/Highfield_Road"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2021–22_Watford_F.C._season">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Team"/>
+    <fb:hasName xml:lang="en">2021–22 Watford F.C. season</fb:hasName>
+    <fb:competesin rdf:resource="http://dbpedia.org/resource/Premier_League"/>
+    <fb:hasStadium rdf:resource="http://dbpedia.org/resource/Vicarage_Road"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2020–21_Brighton_&amp;_Hove_Albion_F.C._season">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Team"/>
+    <fb:hasName xml:lang="en">2020–21 Brighton &amp; Hove Albion F.C. season</fb:hasName>
+    <fb:competesin rdf:resource="http://dbpedia.org/resource/Premier_League"/>
+    <fb:hasStadium rdf:resource="http://dbpedia.org/resource/Falmer_Stadium"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N0b6815238e1a484a9feaeacf9849ee01">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Restriction"/>
+    <owl:onProperty rdf:resource="http://www.semanticweb.org/ontologies/football#Country"/>
+    <owl:someValuesFrom rdf:resource="http://www.w3.org/2002/07/owl#rational"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q180134">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Player"/>
+    <fb:hasName xml:lang="en">Brian Hall</fb:hasName>
+    <fb:hasNationality rdf:resource="http://www.wikidata.org/entity/Q145"/>
+    <fb:playsFor rdf:resource="http://www.wikidata.org/entity/Q19458"/>
+    <fb:playsFor rdf:resource="http://www.wikidata.org/entity/Q1130849"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2023–24_Chelsea_F.C._season">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Team"/>
+    <fb:hasName xml:lang="en">2023–24 Chelsea F.C. season</fb:hasName>
+    <fb:competesin rdf:resource="http://dbpedia.org/resource/Premier_League"/>
+    <fb:hasStadium rdf:resource="http://dbpedia.org/resource/Stamford_Bridge_(stadium)"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2016–17_Arsenal_F.C._season">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Team"/>
+    <fb:hasName xml:lang="en">2016–17 Arsenal F.C. season</fb:hasName>
+    <fb:competesin rdf:resource="http://dbpedia.org/resource/Premier_League"/>
+    <fb:hasStadium rdf:resource="http://dbpedia.org/resource/Emirates_Stadium"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2020–21_Wolverhampton_Wanderers_F.C._season">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Team"/>
+    <fb:hasName xml:lang="en">2020–21 Wolverhampton Wanderers F.C. season</fb:hasName>
+    <fb:competesin rdf:resource="http://dbpedia.org/resource/Premier_League"/>
+    <fb:hasStadium rdf:resource="http://dbpedia.org/resource/Molineux_Stadium"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q195689">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Player"/>
+    <fb:hasName xml:lang="en">Tamás Kádár</fb:hasName>
+    <fb:hasNationality rdf:resource="http://www.wikidata.org/entity/Q28"/>
+    <fb:playsFor rdf:resource="http://www.wikidata.org/entity/Q18716"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2023–24_Nottingham_Forest_F.C._season">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Team"/>
+    <fb:hasName xml:lang="en">2023–24 Nottingham Forest F.C. season</fb:hasName>
+    <fb:competesin rdf:resource="http://dbpedia.org/resource/Premier_League"/>
+    <fb:hasStadium rdf:resource="http://dbpedia.org/resource/City_Ground"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2012–13_Arsenal_F.C._season">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Team"/>
+    <fb:hasName xml:lang="en">2012–13 Arsenal F.C. season</fb:hasName>
+    <fb:competesin rdf:resource="http://dbpedia.org/resource/Premier_League"/>
+    <fb:hasStadium rdf:resource="http://dbpedia.org/resource/Emirates_Stadium"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/1996–97_Middlesbrough_F.C._season">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Team"/>
+    <fb:hasName xml:lang="en">1996–97 Middlesbrough F.C. season</fb:hasName>
+    <fb:competesin rdf:resource="http://dbpedia.org/resource/Premier_League"/>
+    <fb:hasStadium rdf:resource="http://dbpedia.org/resource/Riverside_Stadium"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q84272">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Player"/>
+    <fb:hasName xml:lang="en">Niko Kranjčar</fb:hasName>
+    <fb:hasNationality rdf:resource="http://www.wikidata.org/entity/Q40"/>
+    <fb:playsFor rdf:resource="http://www.wikidata.org/entity/Q18741"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2014–15_Queens_Park_Rangers_F.C._season">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Team"/>
+    <fb:hasName xml:lang="en">2014–15 Queens Park Rangers F.C. season</fb:hasName>
+    <fb:competesin rdf:resource="http://dbpedia.org/resource/Premier_League"/>
+    <fb:hasStadium rdf:resource="http://dbpedia.org/resource/Loftus_Road"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q214124">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Player"/>
+    <fb:hasName xml:lang="en">Kim Källström</fb:hasName>
+    <fb:hasNationality rdf:resource="http://www.wikidata.org/entity/Q34"/>
+    <fb:playsFor rdf:resource="http://www.wikidata.org/entity/Q9617"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q214204">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Player"/>
+    <fb:hasName xml:lang="en">Eden Hazard</fb:hasName>
+    <fb:hasNationality rdf:resource="http://www.wikidata.org/entity/Q31"/>
+    <fb:playsFor rdf:resource="http://www.wikidata.org/entity/Q9616"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2014–15_Crystal_Palace_F.C._season">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Team"/>
+    <fb:hasName xml:lang="en">2014–15 Crystal Palace F.C. season</fb:hasName>
+    <fb:competesin rdf:resource="http://dbpedia.org/resource/Premier_League"/>
+    <fb:hasStadium rdf:resource="http://dbpedia.org/resource/Selhurst_Park"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2004–05_Chelsea_F.C._season">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Team"/>
+    <fb:hasName xml:lang="en">2004–05 Chelsea F.C. season</fb:hasName>
+    <fb:competesin rdf:resource="http://dbpedia.org/resource/Premier_League"/>
+    <fb:hasStadium rdf:resource="http://dbpedia.org/resource/Stamford_Bridge_(stadium)"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/1993–94_Coventry_City_F.C._season">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Team"/>
+    <fb:hasName xml:lang="en">1993–94 Coventry City F.C. season</fb:hasName>
+    <fb:competesin rdf:resource="http://dbpedia.org/resource/Premier_League"/>
+    <fb:hasStadium rdf:resource="http://dbpedia.org/resource/Highfield_Road"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/1995–96_Queens_Park_Rangers_F.C._season">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Team"/>
+    <fb:hasName xml:lang="en">1995–96 Queens Park Rangers F.C. season</fb:hasName>
+    <fb:competesin rdf:resource="http://dbpedia.org/resource/Premier_League"/>
+    <fb:hasStadium rdf:resource="http://dbpedia.org/resource/Loftus_Road"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q77412">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Player"/>
+    <fb:hasName xml:lang="en">Lars Hirschfeld</fb:hasName>
+    <fb:hasNationality rdf:resource="http://www.wikidata.org/entity/Q16"/>
+    <fb:playsFor rdf:resource="http://www.wikidata.org/entity/Q18741"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2025–26_Wolverhampton_Wanderers_F.C._season">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Team"/>
+    <fb:hasName xml:lang="en">2025–26 Wolverhampton Wanderers F.C. season</fb:hasName>
+    <fb:competesin rdf:resource="http://dbpedia.org/resource/Premier_League"/>
+    <fb:hasStadium rdf:resource="http://dbpedia.org/resource/Molineux_Stadium"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2017–18_AFC_Bournemouth_season">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Team"/>
+    <fb:hasName xml:lang="en">2017–18 AFC Bournemouth season</fb:hasName>
+    <fb:competesin rdf:resource="http://dbpedia.org/resource/Premier_League"/>
+    <fb:hasStadium rdf:resource="http://dbpedia.org/resource/Dean_Court"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2018–19_Chelsea_F.C._season">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Team"/>
+    <fb:hasName xml:lang="en">2018–19 Chelsea F.C. season</fb:hasName>
+    <fb:competesin rdf:resource="http://dbpedia.org/resource/Premier_League"/>
+    <fb:hasStadium rdf:resource="http://dbpedia.org/resource/Stamford_Bridge_(stadium)"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q150332">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Player"/>
+    <fb:hasName xml:lang="en">John Egan</fb:hasName>
+    <fb:hasNationality rdf:resource="http://www.wikidata.org/entity/Q27"/>
+    <fb:playsFor rdf:resource="http://www.wikidata.org/entity/Q18739"/>
+    <fb:playsFor rdf:resource="http://www.wikidata.org/entity/Q19467"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q167790">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Player"/>
+    <fb:hasName xml:lang="en">Edinson Cavani</fb:hasName>
+    <fb:hasNationality rdf:resource="http://www.wikidata.org/entity/Q77"/>
+    <fb:playsFor rdf:resource="http://www.wikidata.org/entity/Q18656"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2017–18_Chelsea_F.C._season">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Team"/>
+    <fb:hasName xml:lang="en">2017–18 Chelsea F.C. season</fb:hasName>
+    <fb:competesin rdf:resource="http://dbpedia.org/resource/Premier_League"/>
+    <fb:hasStadium rdf:resource="http://dbpedia.org/resource/Stamford_Bridge_(stadium)"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q189827">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Player"/>
+    <fb:hasName xml:lang="en">John Arne Riise</fb:hasName>
+    <fb:hasNationality rdf:resource="http://www.wikidata.org/entity/Q20"/>
+    <fb:playsFor rdf:resource="http://www.wikidata.org/entity/Q1130849"/>
+    <fb:playsFor rdf:resource="http://www.wikidata.org/entity/Q18708"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2024–25_Fulham_F.C._season">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Team"/>
+    <fb:hasName xml:lang="en">2024–25 Fulham F.C. season</fb:hasName>
+    <fb:competesin rdf:resource="http://dbpedia.org/resource/Premier_League"/>
+    <fb:hasStadium rdf:resource="http://dbpedia.org/resource/Craven_Cottage"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/1995–96_Nottingham_Forest_F.C._season">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Team"/>
+    <fb:hasName xml:lang="en">1995–96 Nottingham Forest F.C. season</fb:hasName>
+    <fb:competesin rdf:resource="http://dbpedia.org/resource/Premier_League"/>
+    <fb:hasStadium rdf:resource="http://dbpedia.org/resource/City_Ground"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q16">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Country"/>
+    <fb:hasName xml:lang="en">Canada</fb:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2022–23_AFC_Bournemouth_season">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Team"/>
+    <fb:hasName xml:lang="en">2022–23 AFC Bournemouth season</fb:hasName>
+    <fb:competesin rdf:resource="http://dbpedia.org/resource/Premier_League"/>
+    <fb:hasStadium rdf:resource="http://dbpedia.org/resource/Dean_Court"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q18739">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Team"/>
+    <fb:hasName xml:lang="en">Sunderland A.F.C.</fb:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2025–26_Fulham_F.C._season">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Team"/>
+    <fb:hasName xml:lang="en">2025–26 Fulham F.C. season</fb:hasName>
+    <fb:competesin rdf:resource="http://dbpedia.org/resource/Premier_League"/>
+    <fb:hasStadium rdf:resource="http://dbpedia.org/resource/Craven_Cottage"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N64eaa2aad8014eb182a3523e4060eebd">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Restriction"/>
+    <owl:onProperty rdf:resource="http://www.semanticweb.org/ontologies/football#League"/>
+    <owl:someValuesFrom rdf:resource="http://www.w3.org/2002/07/owl#rational"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2006–07_Chelsea_F.C._season">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Team"/>
+    <fb:hasName xml:lang="en">2006–07 Chelsea F.C. season</fb:hasName>
+    <fb:competesin rdf:resource="http://dbpedia.org/resource/Premier_League"/>
+    <fb:hasStadium rdf:resource="http://dbpedia.org/resource/Stamford_Bridge_(stadium)"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q5794">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Team"/>
+    <fb:hasName xml:lang="en">Everton F.C.</fb:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2024–25_Leicester_City_F.C._season">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Team"/>
+    <fb:hasName xml:lang="en">2024–25 Leicester City F.C. season</fb:hasName>
+    <fb:competesin rdf:resource="http://dbpedia.org/resource/Premier_League"/>
+    <fb:hasStadium rdf:resource="http://dbpedia.org/resource/King_Power_Stadium"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q161571">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Player"/>
+    <fb:hasName xml:lang="en">Javier Mascherano</fb:hasName>
+    <fb:hasNationality rdf:resource="http://www.wikidata.org/entity/Q38"/>
+    <fb:playsFor rdf:resource="http://www.wikidata.org/entity/Q18747"/>
+    <fb:playsFor rdf:resource="http://www.wikidata.org/entity/Q1130849"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2023–24_Arsenal_F.C._season">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Team"/>
+    <fb:hasName xml:lang="en">2023–24 Arsenal F.C. season</fb:hasName>
+    <fb:competesin rdf:resource="http://dbpedia.org/resource/Premier_League"/>
+    <fb:hasStadium rdf:resource="http://dbpedia.org/resource/Emirates_Stadium"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/1994–95_Nottingham_Forest_F.C._season">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Team"/>
+    <fb:hasName xml:lang="en">1994–95 Nottingham Forest F.C. season</fb:hasName>
+    <fb:competesin rdf:resource="http://dbpedia.org/resource/Premier_League"/>
+    <fb:hasStadium rdf:resource="http://dbpedia.org/resource/City_Ground"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q128840">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Player"/>
+    <fb:hasName xml:lang="en">Toby Alderweireld</fb:hasName>
+    <fb:hasNationality rdf:resource="http://www.wikidata.org/entity/Q31"/>
+    <fb:playsFor rdf:resource="http://www.wikidata.org/entity/Q18741"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/ontologies/football#hasAge">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#DatatypeProperty"/>
+    <rdfs:domain rdf:nodeID="N77c63b071cb540d89d6eeca5ccbfe03d"/>
+    <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#integer"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q190651">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Player"/>
+    <fb:hasName xml:lang="en">Jerzy Dudek</fb:hasName>
+    <fb:hasNationality rdf:resource="http://www.wikidata.org/entity/Q36"/>
+    <fb:playsFor rdf:resource="http://www.wikidata.org/entity/Q1130849"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/1995–96_Blackburn_Rovers_F.C._season">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Team"/>
+    <fb:hasName xml:lang="en">1995–96 Blackburn Rovers F.C. season</fb:hasName>
+    <fb:competesin rdf:resource="http://dbpedia.org/resource/Premier_League"/>
+    <fb:hasStadium rdf:resource="http://dbpedia.org/resource/Ewood_Park"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q209650">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Player"/>
+    <fb:hasName xml:lang="en">Jari Litmanen</fb:hasName>
+    <fb:hasNationality rdf:resource="http://www.wikidata.org/entity/Q33"/>
+    <fb:playsFor rdf:resource="http://www.wikidata.org/entity/Q1130849"/>
+    <fb:playsFor rdf:resource="http://www.wikidata.org/entity/Q18708"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q161069">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Player"/>
+    <fb:hasName xml:lang="en">David Silva</fb:hasName>
+    <fb:hasNationality rdf:resource="http://www.wikidata.org/entity/Q29"/>
+    <fb:playsFor rdf:resource="http://www.wikidata.org/entity/Q50602"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q136583">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Player"/>
+    <fb:hasName xml:lang="en">Thomas Lam</fb:hasName>
+    <fb:hasNationality rdf:resource="http://www.wikidata.org/entity/Q33"/>
+    <fb:hasNationality rdf:resource="http://www.wikidata.org/entity/Q29999"/>
+    <fb:playsFor rdf:resource="http://www.wikidata.org/entity/Q19490"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/1993–94_Sheffield_United_F.C._season">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Team"/>
+    <fb:hasName xml:lang="en">1993–94 Sheffield United F.C. season</fb:hasName>
+    <fb:competesin rdf:resource="http://dbpedia.org/resource/Premier_League"/>
+    <fb:hasStadium rdf:resource="http://dbpedia.org/resource/Bramall_Lane"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q33">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Country"/>
+    <fb:hasName xml:lang="en">Finland</fb:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2011–12_Arsenal_F.C._season">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Team"/>
+    <fb:hasName xml:lang="en">2011–12 Arsenal F.C. season</fb:hasName>
+    <fb:competesin rdf:resource="http://dbpedia.org/resource/Premier_League"/>
+    <fb:hasStadium rdf:resource="http://dbpedia.org/resource/Emirates_Stadium"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Loftus_Road">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Stadium"/>
+    <fb:hasName xml:lang="en">Loftus Road</fb:hasName>
+    <fb:stadiumCapacity rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">18439</fb:stadiumCapacity>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ewood_Park">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Stadium"/>
+    <fb:hasName xml:lang="en">Ewood Park</fb:hasName>
+    <fb:stadiumCapacity rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">31367</fb:stadiumCapacity>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2001–02_Fulham_F.C._season">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Team"/>
+    <fb:hasName xml:lang="en">2001–02 Fulham F.C. season</fb:hasName>
+    <fb:competesin rdf:resource="http://dbpedia.org/resource/Premier_League"/>
+    <fb:hasStadium rdf:resource="http://dbpedia.org/resource/Craven_Cottage"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q45">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Country"/>
+    <fb:hasName xml:lang="en">Portugal</fb:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2015–16_Norwich_City_F.C._season">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Team"/>
+    <fb:hasName xml:lang="en">2015–16 Norwich City F.C. season</fb:hasName>
+    <fb:competesin rdf:resource="http://dbpedia.org/resource/Premier_League"/>
+    <fb:hasStadium rdf:resource="http://dbpedia.org/resource/Carrow_Road"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q70564">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Player"/>
+    <fb:hasName xml:lang="en">Marcus Hahnemann</fb:hasName>
+    <fb:hasNationality rdf:resource="http://www.wikidata.org/entity/Q30"/>
+    <fb:playsFor rdf:resource="http://www.wikidata.org/entity/Q5794"/>
+    <fb:playsFor rdf:resource="http://www.wikidata.org/entity/Q18708"/>
+    <fb:playsFor rdf:resource="http://www.wikidata.org/entity/Q19500"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2017–18_Arsenal_F.C._season">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Team"/>
+    <fb:hasName xml:lang="en">2017–18 Arsenal F.C. season</fb:hasName>
+    <fb:competesin rdf:resource="http://dbpedia.org/resource/Premier_League"/>
+    <fb:hasStadium rdf:resource="http://dbpedia.org/resource/Emirates_Stadium"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2008–09_Arsenal_F.C._season">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Team"/>
+    <fb:hasName xml:lang="en">2008–09 Arsenal F.C. season</fb:hasName>
+    <fb:competesin rdf:resource="http://dbpedia.org/resource/Premier_League"/>
+    <fb:hasStadium rdf:resource="http://dbpedia.org/resource/Emirates_Stadium"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/ontologies/football#competesin">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+    <rdfs:domain rdf:nodeID="Ne26f4585af5d4b228faca55b8d416f73"/>
+    <rdfs:range rdf:nodeID="Naab6af69f3754ce893d77077fe7caff6"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2007–08_Arsenal_F.C._season">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Team"/>
+    <fb:hasName xml:lang="en">2007–08 Arsenal F.C. season</fb:hasName>
+    <fb:competesin rdf:resource="http://dbpedia.org/resource/Premier_League"/>
+    <fb:hasStadium rdf:resource="http://dbpedia.org/resource/Emirates_Stadium"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/ontologies/football#Country">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#DatatypeProperty"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nbccf8b3ba79d4834bd7577c97ab9d487">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Restriction"/>
+    <owl:onProperty rdf:resource="http://www.semanticweb.org/ontologies/football#Stadium"/>
+    <owl:someValuesFrom rdf:resource="http://www.w3.org/2002/07/owl#rational"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q19571">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Team"/>
+    <fb:hasName xml:lang="en">Brentford F.C.</fb:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2019–20_Leicester_City_F.C._season">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Team"/>
+    <fb:hasName xml:lang="en">2019–20 Leicester City F.C. season</fb:hasName>
+    <fb:competesin rdf:resource="http://dbpedia.org/resource/Premier_League"/>
+    <fb:hasStadium rdf:resource="http://dbpedia.org/resource/King_Power_Stadium"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/1996–97_Coventry_City_F.C._season">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Team"/>
+    <fb:hasName xml:lang="en">1996–97 Coventry City F.C. season</fb:hasName>
+    <fb:competesin rdf:resource="http://dbpedia.org/resource/Premier_League"/>
+    <fb:hasStadium rdf:resource="http://dbpedia.org/resource/Highfield_Road"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2025–26_West_Ham_United_F.C._season">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Team"/>
+    <fb:hasName xml:lang="en">2025–26 West Ham United F.C. season</fb:hasName>
+    <fb:competesin rdf:resource="http://dbpedia.org/resource/Premier_League"/>
+    <fb:hasStadium rdf:resource="http://dbpedia.org/resource/London_Stadium"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2022–23_Brentford_F.C._season">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Team"/>
+    <fb:hasName xml:lang="en">2022–23 Brentford F.C. season</fb:hasName>
+    <fb:competesin rdf:resource="http://dbpedia.org/resource/Premier_League"/>
+    <fb:hasStadium rdf:resource="http://dbpedia.org/resource/Brentford_Community_Stadium"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/ontologies/football#foundedYear">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#DatatypeProperty"/>
+    <rdfs:domain rdf:nodeID="N3b470ac1a3704c608c7e1e9335500a7a"/>
+    <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#integer"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q184614">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Player"/>
+    <fb:hasName xml:lang="en">Paulo Ferreira</fb:hasName>
+    <fb:hasNationality rdf:resource="http://www.wikidata.org/entity/Q45"/>
+    <fb:playsFor rdf:resource="http://www.wikidata.org/entity/Q9616"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2018–19_Cardiff_City_F.C._season">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Team"/>
+    <fb:hasName xml:lang="en">2018–19 Cardiff City F.C. season</fb:hasName>
+    <fb:competesin rdf:resource="http://dbpedia.org/resource/Premier_League"/>
+    <fb:hasStadium rdf:resource="http://dbpedia.org/resource/Cardiff_City_Stadium"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2013–14_Chelsea_F.C._season">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Team"/>
+    <fb:hasName xml:lang="en">2013–14 Chelsea F.C. season</fb:hasName>
+    <fb:competesin rdf:resource="http://dbpedia.org/resource/Premier_League"/>
+    <fb:hasStadium rdf:resource="http://dbpedia.org/resource/Stamford_Bridge_(stadium)"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q75857">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Player"/>
+    <fb:hasName xml:lang="en">Nuri Şahin</fb:hasName>
+    <fb:hasNationality rdf:resource="http://www.wikidata.org/entity/Q43"/>
+    <fb:playsFor rdf:resource="http://www.wikidata.org/entity/Q1130849"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2001–02_Derby_County_F.C._season">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Team"/>
+    <fb:hasName xml:lang="en">2001–02 Derby County F.C. season</fb:hasName>
+    <fb:competesin rdf:resource="http://dbpedia.org/resource/Premier_League"/>
+    <fb:hasStadium rdf:resource="http://dbpedia.org/resource/Pride_Park_Stadium"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q9616">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Team"/>
+    <fb:hasName xml:lang="en">Chelsea F.C.</fb:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q154708">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Player"/>
+    <fb:hasName xml:lang="en">Shinji Kagawa</fb:hasName>
+    <fb:hasNationality rdf:resource="http://www.wikidata.org/entity/Q17"/>
+    <fb:playsFor rdf:resource="http://www.wikidata.org/entity/Q18656"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2024–25_Brighton_&amp;_Hove_Albion_F.C._season">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Team"/>
+    <fb:hasName xml:lang="en">2024–25 Brighton &amp; Hove Albion F.C. season</fb:hasName>
+    <fb:competesin rdf:resource="http://dbpedia.org/resource/Premier_League"/>
+    <fb:hasStadium rdf:resource="http://dbpedia.org/resource/Falmer_Stadium"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2018–19_Brighton_&amp;_Hove_Albion_F.C._season">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Team"/>
+    <fb:hasName xml:lang="en">2018–19 Brighton &amp; Hove Albion F.C. season</fb:hasName>
+    <fb:competesin rdf:resource="http://dbpedia.org/resource/Premier_League"/>
+    <fb:hasStadium rdf:resource="http://dbpedia.org/resource/Falmer_Stadium"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q158995">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Player"/>
+    <fb:hasName xml:lang="en">Joey O'Brien</fb:hasName>
+    <fb:hasNationality rdf:resource="http://www.wikidata.org/entity/Q27"/>
+    <fb:playsFor rdf:resource="http://www.wikidata.org/entity/Q18747"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q187891">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Player"/>
+    <fb:hasName xml:lang="en">Fernando Llorente</fb:hasName>
+    <fb:hasNationality rdf:resource="http://www.wikidata.org/entity/Q29"/>
+    <fb:playsFor rdf:resource="http://www.wikidata.org/entity/Q18741"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2024–25_AFC_Bournemouth_season">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Team"/>
+    <fb:hasName xml:lang="en">2024–25 AFC Bournemouth season</fb:hasName>
+    <fb:competesin rdf:resource="http://dbpedia.org/resource/Premier_League"/>
+    <fb:hasStadium rdf:resource="http://dbpedia.org/resource/Dean_Court"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2020–21_Arsenal_F.C._season">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Team"/>
+    <fb:hasName xml:lang="en">2020–21 Arsenal F.C. season</fb:hasName>
+    <fb:competesin rdf:resource="http://dbpedia.org/resource/Premier_League"/>
+    <fb:hasStadium rdf:resource="http://dbpedia.org/resource/Emirates_Stadium"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Emirates_Stadium">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Stadium"/>
+    <fb:hasName xml:lang="en">Emirates Stadium</fb:hasName>
+    <fb:stadiumCapacity rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">60704</fb:stadiumCapacity>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Ne26f4585af5d4b228faca55b8d416f73">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Restriction"/>
+    <owl:onProperty rdf:resource="http://www.semanticweb.org/ontologies/football#Team"/>
+    <owl:someValuesFrom rdf:resource="http://www.w3.org/2002/07/owl#rational"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q150947">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Player"/>
+    <fb:hasName xml:lang="en">Martín Demichelis</fb:hasName>
+    <fb:hasNationality rdf:resource="http://www.wikidata.org/entity/Q38"/>
+    <fb:playsFor rdf:resource="http://www.wikidata.org/entity/Q50602"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2021–22_Brentford_F.C._season">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Team"/>
+    <fb:hasName xml:lang="en">2021–22 Brentford F.C. season</fb:hasName>
+    <fb:competesin rdf:resource="http://dbpedia.org/resource/Premier_League"/>
+    <fb:hasStadium rdf:resource="http://dbpedia.org/resource/Brentford_Community_Stadium"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/1992–93_Norwich_City_F.C._season">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Team"/>
+    <fb:hasName xml:lang="en">1992–93 Norwich City F.C. season</fb:hasName>
+    <fb:competesin rdf:resource="http://dbpedia.org/resource/Premier_League"/>
+    <fb:hasStadium rdf:resource="http://dbpedia.org/resource/Carrow_Road"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q205773">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Player"/>
+    <fb:hasName xml:lang="en">Andreas Isaksson</fb:hasName>
+    <fb:hasNationality rdf:resource="http://www.wikidata.org/entity/Q34"/>
+    <fb:playsFor rdf:resource="http://www.wikidata.org/entity/Q50602"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2009–10_Arsenal_F.C._season">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Team"/>
+    <fb:hasName xml:lang="en">2009–10 Arsenal F.C. season</fb:hasName>
+    <fb:competesin rdf:resource="http://dbpedia.org/resource/Premier_League"/>
+    <fb:hasStadium rdf:resource="http://dbpedia.org/resource/Emirates_Stadium"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q208104">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Player"/>
+    <fb:hasName xml:lang="en">Xabi Alonso</fb:hasName>
+    <fb:hasNationality rdf:resource="http://www.wikidata.org/entity/Q29"/>
+    <fb:playsFor rdf:resource="http://www.wikidata.org/entity/Q1130849"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/1997–98_Barnsley_F.C._season">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Team"/>
+    <fb:hasName xml:lang="en">1997–98 Barnsley F.C. season</fb:hasName>
+    <fb:competesin rdf:resource="http://dbpedia.org/resource/Premier_League"/>
+    <fb:hasStadium rdf:resource="http://dbpedia.org/resource/Oakwell"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2018–19_Wolverhampton_Wanderers_F.C._season">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Team"/>
+    <fb:hasName xml:lang="en">2018–19 Wolverhampton Wanderers F.C. season</fb:hasName>
+    <fb:competesin rdf:resource="http://dbpedia.org/resource/Premier_League"/>
+    <fb:hasStadium rdf:resource="http://dbpedia.org/resource/Molineux_Stadium"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2019–20_Arsenal_F.C._season">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Team"/>
+    <fb:hasName xml:lang="en">2019–20 Arsenal F.C. season</fb:hasName>
+    <fb:competesin rdf:resource="http://dbpedia.org/resource/Premier_League"/>
+    <fb:hasStadium rdf:resource="http://dbpedia.org/resource/Emirates_Stadium"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/1995–96_Middlesbrough_F.C._season">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Team"/>
+    <fb:hasName xml:lang="en">1995–96 Middlesbrough F.C. season</fb:hasName>
+    <fb:competesin rdf:resource="http://dbpedia.org/resource/Premier_League"/>
+    <fb:hasStadium rdf:resource="http://dbpedia.org/resource/Riverside_Stadium"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q155">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Country"/>
+    <fb:hasName xml:lang="en">Brazil</fb:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/1997–98_Derby_County_F.C._season">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Team"/>
+    <fb:hasName xml:lang="en">1997–98 Derby County F.C. season</fb:hasName>
+    <fb:competesin rdf:resource="http://dbpedia.org/resource/Premier_League"/>
+    <fb:hasStadium rdf:resource="http://dbpedia.org/resource/Pride_Park_Stadium"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q180628">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Player"/>
+    <fb:hasName xml:lang="en">Souleymane Mamam</fb:hasName>
+    <fb:hasNationality rdf:resource="http://www.wikidata.org/entity/Q31"/>
+    <fb:playsFor rdf:resource="http://www.wikidata.org/entity/Q18656"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q161041">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Player"/>
+    <fb:hasName xml:lang="en">Jonathan Spector</fb:hasName>
+    <fb:hasNationality rdf:resource="http://www.wikidata.org/entity/Q30"/>
+    <fb:playsFor rdf:resource="http://www.wikidata.org/entity/Q18656"/>
+    <fb:playsFor rdf:resource="http://www.wikidata.org/entity/Q18747"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/ontologies/football#leagueTier">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#DatatypeProperty"/>
+    <rdfs:domain rdf:nodeID="N64eaa2aad8014eb182a3523e4060eebd"/>
+    <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#integer"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q188241">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Player"/>
+    <fb:hasName xml:lang="en">Ricardo Quaresma</fb:hasName>
+    <fb:hasNationality rdf:resource="http://www.wikidata.org/entity/Q45"/>
+    <fb:playsFor rdf:resource="http://www.wikidata.org/entity/Q9616"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q202237">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Player"/>
+    <fb:hasName xml:lang="en">Landon Donovan</fb:hasName>
+    <fb:hasNationality rdf:resource="http://www.wikidata.org/entity/Q30"/>
+    <fb:playsFor rdf:resource="http://www.wikidata.org/entity/Q5794"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2016–17_Middlesbrough_F.C._season">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Team"/>
+    <fb:hasName xml:lang="en">2016–17 Middlesbrough F.C. season</fb:hasName>
+    <fb:competesin rdf:resource="http://dbpedia.org/resource/Premier_League"/>
+    <fb:hasStadium rdf:resource="http://dbpedia.org/resource/Riverside_Stadium"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2021–22_Chelsea_F.C._season">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Team"/>
+    <fb:hasName xml:lang="en">2021–22 Chelsea F.C. season</fb:hasName>
+    <fb:competesin rdf:resource="http://dbpedia.org/resource/Premier_League"/>
+    <fb:hasStadium rdf:resource="http://dbpedia.org/resource/Stamford_Bridge_(stadium)"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q28">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Country"/>
+    <fb:hasName xml:lang="en">Hungary</fb:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q19500">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Team"/>
+    <fb:hasName xml:lang="en">Wolverhampton Wanderers F.C.</fb:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2013–14_Hull_City_A.F.C._season">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Team"/>
+    <fb:hasName xml:lang="en">2013–14 Hull City A.F.C. season</fb:hasName>
+    <fb:competesin rdf:resource="http://dbpedia.org/resource/Premier_League"/>
+    <fb:hasStadium rdf:resource="http://dbpedia.org/resource/MKM_Stadium"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q43">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Country"/>
+    <fb:hasName xml:lang="en">Turkey</fb:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q73360">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Player"/>
+    <fb:hasName xml:lang="en">Thibaut Courtois</fb:hasName>
+    <fb:hasNationality rdf:resource="http://www.wikidata.org/entity/Q31"/>
+    <fb:playsFor rdf:resource="http://www.wikidata.org/entity/Q9616"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N4536926b9bd5448ca845ceb7f72d9663">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Restriction"/>
+    <owl:onProperty rdf:resource="http://www.semanticweb.org/ontologies/football#Team"/>
+    <owl:someValuesFrom rdf:resource="http://www.w3.org/2002/07/owl#rational"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/ontologies/football#League">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#DatatypeProperty"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Molineux_Stadium">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Stadium"/>
+    <fb:hasName xml:lang="en">Molineux Stadium</fb:hasName>
+    <fb:stadiumCapacity rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">31750</fb:stadiumCapacity>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nc50c50b773c24b83827d77104fe7d0a5">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Restriction"/>
+    <owl:onProperty rdf:resource="http://www.semanticweb.org/ontologies/football#Stadium"/>
+    <owl:someValuesFrom rdf:resource="http://www.w3.org/2002/07/owl#rational"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q129700">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Player"/>
+    <fb:hasName xml:lang="en">Mario Balotelli</fb:hasName>
+    <fb:hasNationality rdf:resource="http://www.wikidata.org/entity/Q38"/>
+    <fb:hasNationality rdf:resource="http://www.wikidata.org/entity/Q117"/>
+    <fb:playsFor rdf:resource="http://www.wikidata.org/entity/Q50602"/>
+    <fb:playsFor rdf:resource="http://www.wikidata.org/entity/Q1130849"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q117">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Country"/>
+    <fb:hasName xml:lang="en">Ghana</fb:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Highfield_Road">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Stadium"/>
+    <fb:hasName xml:lang="en">Highfield Road</fb:hasName>
+    <fb:stadiumCapacity rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">23489</fb:stadiumCapacity>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/ontologies/football#hasPlayer">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+    <owl:inverseOf rdf:resource="http://www.semanticweb.org/ontologies/football#playsFor"/>
+    <rdfs:domain rdf:nodeID="N53f5d056b0ab4ec7ae23af291d1a48d3"/>
+    <rdfs:range rdf:nodeID="N60c6c29fce06463b9f02f43010d37ec8"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q210916">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Player"/>
+    <fb:hasName xml:lang="en">Álvaro Negredo</fb:hasName>
+    <fb:hasNationality rdf:resource="http://www.wikidata.org/entity/Q29"/>
+    <fb:playsFor rdf:resource="http://www.wikidata.org/entity/Q50602"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2023–24_Brentford_F.C._season">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Team"/>
+    <fb:hasName xml:lang="en">2023–24 Brentford F.C. season</fb:hasName>
+    <fb:competesin rdf:resource="http://dbpedia.org/resource/Premier_League"/>
+    <fb:hasStadium rdf:resource="http://dbpedia.org/resource/Brentford_Community_Stadium"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2013–14_Cardiff_City_F.C._season">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Team"/>
+    <fb:hasName xml:lang="en">2013–14 Cardiff City F.C. season</fb:hasName>
+    <fb:competesin rdf:resource="http://dbpedia.org/resource/Premier_League"/>
+    <fb:hasStadium rdf:resource="http://dbpedia.org/resource/Cardiff_City_Stadium"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/1999–2000_Watford_F.C._season">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Team"/>
+    <fb:hasName xml:lang="en">1999–2000 Watford F.C. season</fb:hasName>
+    <fb:competesin rdf:resource="http://dbpedia.org/resource/Premier_League"/>
+    <fb:hasStadium rdf:resource="http://dbpedia.org/resource/Vicarage_Road"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2009–10_Chelsea_F.C._season">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Team"/>
+    <fb:hasName xml:lang="en">2009–10 Chelsea F.C. season</fb:hasName>
+    <fb:competesin rdf:resource="http://dbpedia.org/resource/Premier_League"/>
+    <fb:hasStadium rdf:resource="http://dbpedia.org/resource/Stamford_Bridge_(stadium)"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Oakwell">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Stadium"/>
+    <fb:hasName xml:lang="en">Oakwell</fb:hasName>
+    <fb:stadiumCapacity rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">23287</fb:stadiumCapacity>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q1128631">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Team"/>
+    <fb:hasName xml:lang="en">Leeds United F.C.</fb:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q18711">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Team"/>
+    <fb:hasName xml:lang="en">Aston Villa F.C.</fb:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2016–17_Watford_F.C._season">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Team"/>
+    <fb:hasName xml:lang="en">2016–17 Watford F.C. season</fb:hasName>
+    <fb:competesin rdf:resource="http://dbpedia.org/resource/Premier_League"/>
+    <fb:hasStadium rdf:resource="http://dbpedia.org/resource/Vicarage_Road"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/ontologies/football#hasMarketValue">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#DatatypeProperty"/>
+    <rdfs:domain rdf:nodeID="N6d1891398c1b40a4ae330bef6e0f2b1a"/>
+    <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#float"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/1997–98_Coventry_City_F.C._season">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Team"/>
+    <fb:hasName xml:lang="en">1997–98 Coventry City F.C. season</fb:hasName>
+    <fb:competesin rdf:resource="http://dbpedia.org/resource/Premier_League"/>
+    <fb:hasStadium rdf:resource="http://dbpedia.org/resource/Highfield_Road"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q19458">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Team"/>
+    <fb:hasName xml:lang="en">Burnley F.C.</fb:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/ontologies/football#Stadium">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#DatatypeProperty"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N77c63b071cb540d89d6eeca5ccbfe03d">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Restriction"/>
+    <owl:onProperty rdf:resource="http://www.semanticweb.org/ontologies/football#Player"/>
+    <owl:someValuesFrom rdf:resource="http://www.w3.org/2002/07/owl#rational"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q192840">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Player"/>
+    <fb:hasName xml:lang="en">Sami Hyypiä</fb:hasName>
+    <fb:hasNationality rdf:resource="http://www.wikidata.org/entity/Q33"/>
+    <fb:playsFor rdf:resource="http://www.wikidata.org/entity/Q1130849"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q208425">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Player"/>
+    <fb:hasName xml:lang="en">Michael Bradley</fb:hasName>
+    <fb:hasNationality rdf:resource="http://www.wikidata.org/entity/Q30"/>
+    <fb:playsFor rdf:resource="http://www.wikidata.org/entity/Q18711"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/County_Ground_(Swindon)">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Stadium"/>
+    <fb:hasName xml:lang="en">County Ground (Swindon)</fb:hasName>
+    <fb:stadiumCapacity rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">15728</fb:stadiumCapacity>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q20">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Country"/>
+    <fb:hasName xml:lang="en">Norway</fb:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2022–23_West_Ham_United_F.C._season">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Team"/>
+    <fb:hasName xml:lang="en">2022–23 West Ham United F.C. season</fb:hasName>
+    <fb:competesin rdf:resource="http://dbpedia.org/resource/Premier_League"/>
+    <fb:hasStadium rdf:resource="http://dbpedia.org/resource/London_Stadium"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2021–22_Brighton_&amp;_Hove_Albion_F.C._season">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Team"/>
+    <fb:hasName xml:lang="en">2021–22 Brighton &amp; Hove Albion F.C. season</fb:hasName>
+    <fb:competesin rdf:resource="http://dbpedia.org/resource/Premier_League"/>
+    <fb:hasStadium rdf:resource="http://dbpedia.org/resource/Falmer_Stadium"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q18741">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Team"/>
+    <fb:hasName xml:lang="en">Tottenham Hotspur F.C.</fb:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2018–19_Leicester_City_F.C._season">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Team"/>
+    <fb:hasName xml:lang="en">2018–19 Leicester City F.C. season</fb:hasName>
+    <fb:competesin rdf:resource="http://dbpedia.org/resource/Premier_League"/>
+    <fb:hasStadium rdf:resource="http://dbpedia.org/resource/King_Power_Stadium"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/1993–94_Swindon_Town_F.C._season">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Team"/>
+    <fb:hasName xml:lang="en">1993–94 Swindon Town F.C. season</fb:hasName>
+    <fb:competesin rdf:resource="http://dbpedia.org/resource/Premier_League"/>
+    <fb:hasStadium rdf:resource="http://dbpedia.org/resource/County_Ground_(Swindon)"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q34">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Country"/>
+    <fb:hasName xml:lang="en">Sweden</fb:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q37">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Country"/>
+    <fb:hasName xml:lang="en">Lithuania</fb:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q617288">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Player"/>
+    <fb:hasName xml:lang="en">Brian Murphy</fb:hasName>
+    <fb:hasNationality rdf:resource="http://www.wikidata.org/entity/Q27"/>
+    <fb:playsFor rdf:resource="http://www.wikidata.org/entity/Q50602"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q179334">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Player"/>
+    <fb:hasName xml:lang="en">Henrik Larsson</fb:hasName>
+    <fb:hasNationality rdf:resource="http://www.wikidata.org/entity/Q34"/>
+    <fb:playsFor rdf:resource="http://www.wikidata.org/entity/Q18656"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q83488">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Player"/>
+    <fb:hasName xml:lang="en">Mesut Özil</fb:hasName>
+    <fb:hasNationality rdf:resource="http://www.wikidata.org/entity/Q43"/>
+    <fb:playsFor rdf:resource="http://www.wikidata.org/entity/Q9617"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Falmer_Stadium">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Stadium"/>
+    <fb:hasName xml:lang="en">Falmer Stadium</fb:hasName>
+    <fb:stadiumCapacity rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">31876</fb:stadiumCapacity>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/City_Ground">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Stadium"/>
+    <fb:hasName xml:lang="en">City Ground</fb:hasName>
+    <fb:stadiumCapacity rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">30404</fb:stadiumCapacity>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Selhurst_Park">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Stadium"/>
+    <fb:hasName xml:lang="en">Selhurst Park</fb:hasName>
+    <fb:stadiumCapacity rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">25486</fb:stadiumCapacity>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q18708">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Team"/>
+    <fb:hasName xml:lang="en">Fulham F.C.</fb:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2014–15_Chelsea_F.C._season">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Team"/>
+    <fb:hasName xml:lang="en">2014–15 Chelsea F.C. season</fb:hasName>
+    <fb:competesin rdf:resource="http://dbpedia.org/resource/Premier_League"/>
+    <fb:hasStadium rdf:resource="http://dbpedia.org/resource/Stamford_Bridge_(stadium)"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/1992–93_Chelsea_F.C._season">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Team"/>
+    <fb:hasName xml:lang="en">1992–93 Chelsea F.C. season</fb:hasName>
+    <fb:competesin rdf:resource="http://dbpedia.org/resource/Premier_League"/>
+    <fb:hasStadium rdf:resource="http://dbpedia.org/resource/Stamford_Bridge_(stadium)"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q224">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Country"/>
+    <fb:hasName xml:lang="en">Croatia</fb:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/ontologies/football#playsFor">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#IrreflexiveProperty"/>
+    <rdfs:domain rdf:nodeID="N615edb2ab61846739cdb8b6d5269a413"/>
+    <rdfs:range rdf:nodeID="N4536926b9bd5448ca845ceb7f72d9663"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/1993–94_Chelsea_F.C._season">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Team"/>
+    <fb:hasName xml:lang="en">1993–94 Chelsea F.C. season</fb:hasName>
+    <fb:competesin rdf:resource="http://dbpedia.org/resource/Premier_League"/>
+    <fb:hasStadium rdf:resource="http://dbpedia.org/resource/Stamford_Bridge_(stadium)"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N53f5d056b0ab4ec7ae23af291d1a48d3">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Restriction"/>
+    <owl:onProperty rdf:resource="http://www.semanticweb.org/ontologies/football#Team"/>
+    <owl:someValuesFrom rdf:resource="http://www.w3.org/2002/07/owl#rational"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fratton_Park">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Stadium"/>
+    <fb:hasName xml:lang="en">Fratton Park</fb:hasName>
+    <fb:stadiumCapacity rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">20867</fb:stadiumCapacity>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2019–20_Wolverhampton_Wanderers_F.C._season">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Team"/>
+    <fb:hasName xml:lang="en">2019–20 Wolverhampton Wanderers F.C. season</fb:hasName>
+    <fb:competesin rdf:resource="http://dbpedia.org/resource/Premier_League"/>
+    <fb:hasStadium rdf:resource="http://dbpedia.org/resource/Molineux_Stadium"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q17">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Country"/>
+    <fb:hasName xml:lang="en">Japan</fb:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2018–19_Watford_F.C._season">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Team"/>
+    <fb:hasName xml:lang="en">2018–19 Watford F.C. season</fb:hasName>
+    <fb:competesin rdf:resource="http://dbpedia.org/resource/Premier_League"/>
+    <fb:hasStadium rdf:resource="http://dbpedia.org/resource/Vicarage_Road"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q1028">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Country"/>
+    <fb:hasName xml:lang="en">Morocco</fb:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q184177">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Player"/>
+    <fb:hasName xml:lang="en">Thomas Vermaelen</fb:hasName>
+    <fb:hasNationality rdf:resource="http://www.wikidata.org/entity/Q31"/>
+    <fb:playsFor rdf:resource="http://www.wikidata.org/entity/Q9617"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Brentford_Community_Stadium">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Stadium"/>
+    <fb:hasName xml:lang="en">Brentford Community Stadium</fb:hasName>
+    <fb:stadiumCapacity rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">17250</fb:stadiumCapacity>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/1994–95_Norwich_City_F.C._season">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Team"/>
+    <fb:hasName xml:lang="en">1994–95 Norwich City F.C. season</fb:hasName>
+    <fb:competesin rdf:resource="http://dbpedia.org/resource/Premier_League"/>
+    <fb:hasStadium rdf:resource="http://dbpedia.org/resource/Carrow_Road"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q30">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Country"/>
+    <fb:hasName xml:lang="en">United States</fb:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2021–22_West_Ham_United_F.C._season">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Team"/>
+    <fb:hasName xml:lang="en">2021–22 West Ham United F.C. season</fb:hasName>
+    <fb:competesin rdf:resource="http://dbpedia.org/resource/Premier_League"/>
+    <fb:hasStadium rdf:resource="http://dbpedia.org/resource/London_Stadium"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q175296">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Player"/>
+    <fb:hasName xml:lang="en">Raul Meireles</fb:hasName>
+    <fb:hasNationality rdf:resource="http://www.wikidata.org/entity/Q45"/>
+    <fb:playsFor rdf:resource="http://www.wikidata.org/entity/Q1130849"/>
+    <fb:playsFor rdf:resource="http://www.wikidata.org/entity/Q9616"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Craven_Cottage">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Stadium"/>
+    <fb:hasName xml:lang="en">Craven Cottage</fb:hasName>
+    <fb:stadiumCapacity rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">28800</fb:stadiumCapacity>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q138075">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Player"/>
+    <fb:hasName xml:lang="en">Alexandre Pato</fb:hasName>
+    <fb:hasNationality rdf:resource="http://www.wikidata.org/entity/Q155"/>
+    <fb:playsFor rdf:resource="http://www.wikidata.org/entity/Q9616"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q145">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Country"/>
+    <fb:hasName xml:lang="en">United Kingdom</fb:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q142907">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Player"/>
+    <fb:hasName xml:lang="en">Mark de Vries</fb:hasName>
+    <fb:hasNationality rdf:resource="http://www.wikidata.org/entity/Q29999"/>
+    <fb:playsFor rdf:resource="http://www.wikidata.org/entity/Q1128631"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/ontologies/football#hasName">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#DatatypeProperty"/>
+    <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q168287">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Player"/>
+    <fb:hasName xml:lang="en">Christian Panucci</fb:hasName>
+    <fb:hasNationality rdf:resource="http://www.wikidata.org/entity/Q38"/>
+    <fb:playsFor rdf:resource="http://www.wikidata.org/entity/Q9616"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/ontologies/football#Player">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#DatatypeProperty"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2007–08_Chelsea_F.C._season">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Team"/>
+    <fb:hasName xml:lang="en">2007–08 Chelsea F.C. season</fb:hasName>
+    <fb:competesin rdf:resource="http://dbpedia.org/resource/Premier_League"/>
+    <fb:hasStadium rdf:resource="http://dbpedia.org/resource/Stamford_Bridge_(stadium)"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2003–04_Portsmouth_F.C._season">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Team"/>
+    <fb:hasName xml:lang="en">2003–04 Portsmouth F.C. season</fb:hasName>
+    <fb:competesin rdf:resource="http://dbpedia.org/resource/Premier_League"/>
+    <fb:hasStadium rdf:resource="http://dbpedia.org/resource/Fratton_Park"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q31">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Country"/>
+    <fb:hasName xml:lang="en">Belgium</fb:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2021–22_Leicester_City_F.C._season">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Team"/>
+    <fb:hasName xml:lang="en">2021–22 Leicester City F.C. season</fb:hasName>
+    <fb:competesin rdf:resource="http://dbpedia.org/resource/Premier_League"/>
+    <fb:hasStadium rdf:resource="http://dbpedia.org/resource/King_Power_Stadium"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N81fa2d5210674e179d96028526ff5fdf">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Restriction"/>
+    <owl:onProperty rdf:resource="http://www.semanticweb.org/ontologies/football#Country"/>
+    <owl:someValuesFrom rdf:resource="http://www.w3.org/2002/07/owl#rational"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vicarage_Road">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Stadium"/>
+    <fb:hasName xml:lang="en">Vicarage Road</fb:hasName>
+    <fb:stadiumCapacity rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">22220</fb:stadiumCapacity>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q408">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Country"/>
+    <fb:hasName xml:lang="en">Australia</fb:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q9617">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Team"/>
+    <fb:hasName xml:lang="en">Arsenal F.C.</fb:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q36">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Country"/>
+    <fb:hasName xml:lang="en">Poland</fb:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q142">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Country"/>
+    <fb:hasName xml:lang="en">France</fb:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q19453">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Team"/>
+    <fb:hasName xml:lang="en">Brighton &amp; Hove Albion F.C.</fb:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q29999">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Country"/>
+    <fb:hasName xml:lang="en">Kingdom of the Netherlands</fb:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/ontologies/football">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Ontology"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q19467">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/football#Team"/>
+    <fb:hasName xml:lang="en">Crystal Palace F.C.</fb:hasName>
+  </rdf:Description>
+</rdf:RDF>
